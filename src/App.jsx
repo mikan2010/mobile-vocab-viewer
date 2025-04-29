@@ -6,8 +6,8 @@ function MobileVocabViewer() {
   const [records, setRecords] = useState([]);
   const [query, setQuery] = useState("");
   const [learned, setLearned] = useState({});
+  const [filterMode, setFilterMode] = useState("unlearned"); // ★フィルターモード追加
 
-  // 📌 単語リスト読み込み
   useEffect(() => {
     fetch("/vocab.json")
       .then((res) => res.json())
@@ -15,7 +15,6 @@ function MobileVocabViewer() {
       .catch((err) => console.error("Failed to load vocab list:", err));
   }, []);
 
-  // 📌 学習済み記録読み込み
   useEffect(() => {
     const saved = localStorage.getItem("learnedWords");
     if (saved) {
@@ -23,7 +22,6 @@ function MobileVocabViewer() {
     }
   }, []);
 
-  // 📌 学習済み切替
   const toggleLearned = (word) => {
     setLearned((prev) => {
       const updated = { ...prev, [word]: !prev[word] };
@@ -32,52 +30,98 @@ function MobileVocabViewer() {
     });
   };
 
-  // 📌 音声読み上げ機能
   const speak = (text) => {
-    if ('speechSynthesis' in window) {
+    if ("speechSynthesis" in window) {
       const utterance = new SpeechSynthesisUtterance(text);
-  
-      // ✅ 音声リストを取得
       const voices = window.speechSynthesis.getVoices();
-  
-      // ✅ 好きな声を選ぶ（例：英語の女性）
-      const selectedVoice = voices.find(v => v.lang === 'en-AU' && v.name.includes('Female')) 
-                         || voices.find(v => v.lang === 'en-AU') 
-                         || voices[0];
-  
+      const selectedVoice = voices.find(v => v.lang === 'en-US') || voices[0];
       if (selectedVoice) {
         utterance.voice = selectedVoice;
       }
-  
-      utterance.lang = 'en-AU'; // 言語設定
-      utterance.rate = 0.9;     // 読む速度（1が標準）
-      utterance.pitch = 0.9;    // 声の高さ（1が標準）
-  
+      utterance.lang = "en-US";
+      utterance.rate = 0.9;
       window.speechSynthesis.speak(utterance);
     } else {
       alert("このブラウザでは音声合成がサポートされていません。");
     }
   };
-  
 
-  // 📌 検索フィルタ
-  const filtered = records.filter((r) =>
-    r.Word?.toLowerCase().includes(query.toLowerCase()) ||
-    r.JapaneseMeaning?.includes(query)
-  );
+  // 📌 単語リストフィルタリング（3モード対応）
+  const filtered = records.filter((r) => {
+    const matchesQuery =
+      r.Word?.toLowerCase().includes(query.toLowerCase()) ||
+      r.JapaneseMeaning?.includes(query);
+
+    const isLearned = learned[r.Word];
+
+    if (filterMode === "unlearned") {
+      return matchesQuery && !isLearned; // 未学習のみ
+    } else if (filterMode === "learned") {
+      return matchesQuery && isLearned; // 学習済みのみ
+    } else {
+      return matchesQuery; // 全部
+    }
+  });
+
+  const totalWords = records.length;
+  const learnedWords = Object.values(learned).filter(Boolean).length;
+  const progress = totalWords > 0 ? (learnedWords / totalWords) * 100 : 0;
 
   return (
     <div className="min-h-screen bg-gray-100 p-4 space-y-4">
       <h1 className="text-2xl font-semibold text-center">Eiken Grade-1 Vocabulary</h1>
 
-      {/* 検索ボックス */}
+      {/* 学習進捗バー */}
       {records.length > 0 && (
-        <Input
-          placeholder="Search word or meaning…"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          className="sticky top-4 z-10 shadow-md bg-white"
-        />
+        <div className="flex flex-col items-center space-y-1">
+          <p className="text-sm text-gray-700">
+            学習済み: {learnedWords} / {totalWords} 単語 ({progress.toFixed(1)}%)
+          </p>
+          <div className="w-full max-w-md bg-gray-300 rounded-full h-3 overflow-hidden">
+            <div
+              className="bg-green-400 h-3 transition-all duration-300"
+              style={{ width: `${progress}%` }}
+            ></div>
+          </div>
+        </div>
+      )}
+
+      {/* 検索ボックスとモード切替ボタン */}
+      {records.length > 0 && (
+        <div className="flex flex-wrap items-center space-x-2">
+          <Input
+            placeholder="Search word or meaning…"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            className="sticky top-4 z-10 shadow-md bg-white flex-1"
+          />
+          <div className="flex space-x-1 mt-2">
+            <button
+              onClick={() => setFilterMode("unlearned")}
+              className={`text-xs px-2 py-1 rounded ${
+                filterMode === "unlearned" ? "bg-indigo-400 text-white" : "bg-indigo-100 text-indigo-800"
+              }`}
+            >
+              未学習
+            </button>
+            <button
+              onClick={() => setFilterMode("all")}
+              className={`text-xs px-2 py-1 rounded ${
+                filterMode === "all" ? "bg-indigo-400 text-white" : "bg-indigo-100 text-indigo-800"
+              }`}
+            >
+              全て
+            </button>
+            <button
+              onClick={() => setFilterMode("learned")}
+              className={`text-xs px-2 py-1 rounded ${
+                filterMode === "learned" ? "bg-indigo-400 text-white" : "bg-indigo-100 text-indigo-800"
+              }`}
+            >
+              学習済み
+            </button>
+          </div>
+        </div>
       )}
 
       {/* 単語リスト */}
@@ -107,7 +151,7 @@ function MobileVocabViewer() {
                       {learned[rec.Word] ? "✅" : "未"}
                     </button>
 
-                    {/* ▶️ 再生ボタン */}
+                    {/* ▶️ 音声ボタン */}
                     <button
                       onClick={(e) => {
                         e.preventDefault();
@@ -125,7 +169,7 @@ function MobileVocabViewer() {
           </Card>
         ))}
 
-        {/* 検索結果なし */}
+        {/* 検索ヒットなし */}
         {records.length > 0 && filtered.length === 0 && (
           <p className="text-center text-gray-500 mt-8">No matches found.</p>
         )}
