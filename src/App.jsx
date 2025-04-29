@@ -5,14 +5,32 @@ import { Input } from "./components/ui/input";
 function MobileVocabViewer() {
   const [records, setRecords] = useState([]);
   const [query, setQuery] = useState("");
+  const [learned, setLearned] = useState({});
 
-  // 📌 アプリ起動時に public/vocab.json を自動ロード
+  // 📌 アプリ起動時に vocab.json をロード
   useEffect(() => {
     fetch("/vocab.json")
       .then((res) => res.json())
       .then((data) => setRecords(data))
       .catch((err) => console.error("Failed to load vocab list:", err));
   }, []);
+
+  // 📌 アプリ起動時に localStorage から学習記録もロード
+  useEffect(() => {
+    const saved = localStorage.getItem('learnedWords');
+    if (saved) {
+      setLearned(JSON.parse(saved));
+    }
+  }, []);
+
+  // 📌 学習済みトグルボタン
+  const toggleLearned = (word) => {
+    setLearned((prev) => {
+      const updated = { ...prev, [word]: !prev[word] };
+      localStorage.setItem('learnedWords', JSON.stringify(updated));  // 保存
+      return updated;
+    });
+  };
 
   // 📌 検索フィルタ
   const filtered = records.filter((r) =>
@@ -41,8 +59,21 @@ function MobileVocabViewer() {
             <CardContent className="p-3">
               <details>
                 <summary className="font-semibold text-lg cursor-pointer flex justify-between items-center">
-                  {rec.Word}
-                  <span className="text-sm text-gray-500 ml-2">{rec.JapaneseMeaning}</span>
+                  <div className="flex flex-col">
+                    <span>{rec.Word}</span>
+                    <span className="text-sm text-gray-500">{rec.JapaneseMeaning}</span>
+                  </div>
+                  <button
+                    onClick={(e) => {
+                      e.preventDefault();
+                      toggleLearned(rec.Word);
+                    }}
+                    className={`ml-2 text-xs px-2 py-1 rounded ${
+                      learned[rec.Word] ? "bg-green-200 text-green-900" : "bg-blue-100 text-blue-800"
+                    }`}
+                  >
+                    {learned[rec.Word] ? "✅" : "未"}
+                  </button>
                 </summary>
                 <p className="mt-2 text-sm text-gray-700">{rec.ExampleSentence}</p>
               </details>
