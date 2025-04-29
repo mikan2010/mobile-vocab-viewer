@@ -7,7 +7,7 @@ function MobileVocabViewer() {
   const [query, setQuery] = useState("");
   const [learned, setLearned] = useState({});
 
-  // 📌 アプリ起動時に vocab.json をロード
+  // 📌 単語リスト読み込み
   useEffect(() => {
     fetch("/vocab.json")
       .then((res) => res.json())
@@ -15,22 +15,50 @@ function MobileVocabViewer() {
       .catch((err) => console.error("Failed to load vocab list:", err));
   }, []);
 
-  // 📌 アプリ起動時に localStorage から学習記録もロード
+  // 📌 学習済み記録読み込み
   useEffect(() => {
-    const saved = localStorage.getItem('learnedWords');
+    const saved = localStorage.getItem("learnedWords");
     if (saved) {
       setLearned(JSON.parse(saved));
     }
   }, []);
 
-  // 📌 学習済みトグルボタン
+  // 📌 学習済み切替
   const toggleLearned = (word) => {
     setLearned((prev) => {
       const updated = { ...prev, [word]: !prev[word] };
-      localStorage.setItem('learnedWords', JSON.stringify(updated));  // 保存
+      localStorage.setItem("learnedWords", JSON.stringify(updated));
       return updated;
     });
   };
+
+  // 📌 音声読み上げ機能
+  const speak = (text) => {
+    if ('speechSynthesis' in window) {
+      const utterance = new SpeechSynthesisUtterance(text);
+  
+      // ✅ 音声リストを取得
+      const voices = window.speechSynthesis.getVoices();
+  
+      // ✅ 好きな声を選ぶ（例：英語の女性）
+      const selectedVoice = voices.find(v => v.lang === 'en-AU' && v.name.includes('Female')) 
+                         || voices.find(v => v.lang === 'en-AU') 
+                         || voices[0];
+  
+      if (selectedVoice) {
+        utterance.voice = selectedVoice;
+      }
+  
+      utterance.lang = 'en-AU'; // 言語設定
+      utterance.rate = 0.9;     // 読む速度（1が標準）
+      utterance.pitch = 0.9;    // 声の高さ（1が標準）
+  
+      window.speechSynthesis.speak(utterance);
+    } else {
+      alert("このブラウザでは音声合成がサポートされていません。");
+    }
+  };
+  
 
   // 📌 検索フィルタ
   const filtered = records.filter((r) =>
@@ -42,7 +70,7 @@ function MobileVocabViewer() {
     <div className="min-h-screen bg-gray-100 p-4 space-y-4">
       <h1 className="text-2xl font-semibold text-center">Eiken Grade-1 Vocabulary</h1>
 
-      {/* 検索窓 */}
+      {/* 検索ボックス */}
       {records.length > 0 && (
         <Input
           placeholder="Search word or meaning…"
@@ -52,7 +80,7 @@ function MobileVocabViewer() {
         />
       )}
 
-      {/* リスト表示 */}
+      {/* 単語リスト */}
       <div className="space-y-2 pb-16">
         {filtered.map((rec, idx) => (
           <Card key={idx} className="hover:shadow-md transition-all">
@@ -63,17 +91,33 @@ function MobileVocabViewer() {
                     <span>{rec.Word}</span>
                     <span className="text-sm text-gray-500">{rec.JapaneseMeaning}</span>
                   </div>
-                  <button
-                    onClick={(e) => {
-                      e.preventDefault();
-                      toggleLearned(rec.Word);
-                    }}
-                    className={`ml-2 text-xs px-2 py-1 rounded ${
-                      learned[rec.Word] ? "bg-green-200 text-green-900" : "bg-blue-100 text-blue-800"
-                    }`}
-                  >
-                    {learned[rec.Word] ? "✅" : "未"}
-                  </button>
+                  <div className="flex space-x-2 items-center">
+                    {/* ✅ 学習済みボタン */}
+                    <button
+                      onClick={(e) => {
+                        e.preventDefault();
+                        toggleLearned(rec.Word);
+                      }}
+                      className={`text-xs px-2 py-1 rounded ${
+                        learned[rec.Word]
+                          ? "bg-green-200 text-green-900"
+                          : "bg-blue-100 text-blue-800"
+                      }`}
+                    >
+                      {learned[rec.Word] ? "✅" : "未"}
+                    </button>
+
+                    {/* ▶️ 再生ボタン */}
+                    <button
+                      onClick={(e) => {
+                        e.preventDefault();
+                        speak(rec.ExampleSentence);
+                      }}
+                      className="text-xs bg-yellow-100 text-yellow-800 rounded px-2 py-1"
+                    >
+                      ▶️
+                    </button>
+                  </div>
                 </summary>
                 <p className="mt-2 text-sm text-gray-700">{rec.ExampleSentence}</p>
               </details>
@@ -81,7 +125,7 @@ function MobileVocabViewer() {
           </Card>
         ))}
 
-        {/* 検索ヒットなし表示 */}
+        {/* 検索結果なし */}
         {records.length > 0 && filtered.length === 0 && (
           <p className="text-center text-gray-500 mt-8">No matches found.</p>
         )}

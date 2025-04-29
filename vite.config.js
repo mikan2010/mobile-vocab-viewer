@@ -10,8 +10,8 @@ export default defineConfig({
       injectRegister: 'auto',      // index.html に自動注入
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'Eiken Vocab Viewer',
-        short_name: 'Eiken Vocab',
+        name: "英検1級英単語リスト",
+        short_name: "英検1級単語",
         description: '1,240-word Eiken Grade-1 list with search & examples',
         theme_color: '#0f172a',    // Tailwind slate-900
         background_color: '#ffffff',
