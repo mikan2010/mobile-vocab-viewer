@@ -1,26 +1,21 @@
-import React, { useState } from 'react';
-import Papa from 'papaparse';
-import { Card, CardContent } from './components/ui/card';
-import { Input } from './components/ui/input';
+import React, { useState, useEffect } from "react";
+import { Card, CardContent } from "./components/ui/card";
+import { Input } from "./components/ui/input";
 
 function MobileVocabViewer() {
   const [records, setRecords] = useState([]);
-  const [query, setQuery]   = useState('');
+  const [query, setQuery] = useState("");
 
-  /* CSV アップロード → 配列に格納 */
-  const handleFile = (e) => {
-    const file = e.target.files[0];
-    if (!file) return;
-    Papa.parse(file, {
-      header: true,
-      complete: (res) => {
-        setRecords(res.data.filter(r => r.Word));
-      },
-    });
-  };
+  // 📌 アプリ起動時に public/vocab.json を自動ロード
+  useEffect(() => {
+    fetch("/vocab.json")
+      .then((res) => res.json())
+      .then((data) => setRecords(data))
+      .catch((err) => console.error("Failed to load vocab list:", err));
+  }, []);
 
-  /* 検索フィルタ */
-  const filtered = records.filter(r =>
+  // 📌 検索フィルタ
+  const filtered = records.filter((r) =>
     r.Word?.toLowerCase().includes(query.toLowerCase()) ||
     r.JapaneseMeaning?.includes(query)
   );
@@ -29,27 +24,17 @@ function MobileVocabViewer() {
     <div className="min-h-screen bg-gray-100 p-4 space-y-4">
       <h1 className="text-2xl font-semibold text-center">Eiken Grade-1 Vocabulary</h1>
 
-      {records.length === 0 && (
-        <div className="flex flex-col items-center space-y-3">
-          <p className="text-sm text-gray-600">Upload the CSV file (1240 words)</p>
-          <Input
-            type="file"
-            accept=".csv"
-            onChange={handleFile}
-            className="max-w-xs"
-          />
-        </div>
-      )}
-
+      {/* 検索窓 */}
       {records.length > 0 && (
         <Input
           placeholder="Search word or meaning…"
           value={query}
-          onChange={e => setQuery(e.target.value)}
+          onChange={(e) => setQuery(e.target.value)}
           className="sticky top-4 z-10 shadow-md bg-white"
         />
       )}
 
+      {/* リスト表示 */}
       <div className="space-y-2 pb-16">
         {filtered.map((rec, idx) => (
           <Card key={idx} className="hover:shadow-md transition-all">
@@ -65,6 +50,7 @@ function MobileVocabViewer() {
           </Card>
         ))}
 
+        {/* 検索ヒットなし表示 */}
         {records.length > 0 && filtered.length === 0 && (
           <p className="text-center text-gray-500 mt-8">No matches found.</p>
         )}
@@ -73,4 +59,4 @@ function MobileVocabViewer() {
   );
 }
 
-export default MobileVocabViewer;   // ← ここがポイント
+export default MobileVocabViewer;

@@ -1,0 +1,7448 @@
+[
+  {
+    "Word":"abate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"和らぐ、弱まる",
+    "ExampleSentence":"Inflation finally began to abate."
+  },
+  {
+    "Word":"abet",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"扇動する、助長する",
+    "ExampleSentence":"He was arrested for abetting the criminals."
+  },
+  {
+    "Word":"abhor",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"嫌悪する",
+    "ExampleSentence":"She abhors cruelty to animals."
+  },
+  {
+    "Word":"abject",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"絶望的な、みじめな",
+    "ExampleSentence":"They lived in abject poverty."
+  },
+  {
+    "Word":"abjure",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"放棄する",
+    "ExampleSentence":"The committee decided to abjure the proposal."
+  },
+  {
+    "Word":"abrogate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"廃止する",
+    "ExampleSentence":"The treaty was abrogated by mutual consent."
+  },
+  {
+    "Word":"abscond",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"逃亡する",
+    "ExampleSentence":"The board decided to abscond the policy."
+  },
+  {
+    "Word":"absolve",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"免責する",
+    "ExampleSentence":"The committee decided to absolve the proposal."
+  },
+  {
+    "Word":"abstemious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"節制した",
+    "ExampleSentence":"She delivered an abstemious speech."
+  },
+  {
+    "Word":"abysmal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ひどく悪い",
+    "ExampleSentence":"The report used several abysmal descriptions."
+  },
+  {
+    "Word":"accede",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"同意する",
+    "ExampleSentence":"The committee decided to accede the proposal."
+  },
+  {
+    "Word":"accost",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"声をかける",
+    "ExampleSentence":"The CEO decided to accost the plan."
+  },
+  {
+    "Word":"accretion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"累積",
+    "ExampleSentence":"The event turned into a major accretion."
+  },
+  {
+    "Word":"acerbic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"辛辣な",
+    "ExampleSentence":"The report used several acerbic descriptions."
+  },
+  {
+    "Word":"acerbity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"辛辣さ",
+    "ExampleSentence":"The event turned into a major acerbity."
+  },
+  {
+    "Word":"acolyte",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"従者",
+    "ExampleSentence":"The event turned into a major acolyte."
+  },
+  {
+    "Word":"acquiesce",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"黙認する",
+    "ExampleSentence":"The committee acquiesced to the proposal."
+  },
+  {
+    "Word":"acrimonious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"辛辣な",
+    "ExampleSentence":"The debate became increasingly acrimonious."
+  },
+  {
+    "Word":"acumen",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"洞察力",
+    "ExampleSentence":"This issue created a serious acumen."
+  },
+  {
+    "Word":"adduce",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"提示する",
+    "ExampleSentence":"The board decided to adduce the policy."
+  },
+  {
+    "Word":"adjudicate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"裁定する",
+    "ExampleSentence":"The CEO decided to adjudicate the plan."
+  },
+  {
+    "Word":"admonish",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"叱責する",
+    "ExampleSentence":"The teacher admonished him for cheating."
+  },
+  {
+    "Word":"adroit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"巧みな",
+    "ExampleSentence":"She is adroit at negotiating deals."
+  },
+  {
+    "Word":"adulation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"過度の賞賛",
+    "ExampleSentence":"This issue created a serious adulation."
+  },
+  {
+    "Word":"adumbrate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"概略を示す",
+    "ExampleSentence":"The board decided to adumbrate the policy."
+  },
+  {
+    "Word":"adventitious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"偶然の",
+    "ExampleSentence":"The report used several adventitious descriptions."
+  },
+  {
+    "Word":"aegis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"保護、後援",
+    "ExampleSentence":"That incident became a major aegis."
+  },
+  {
+    "Word":"aeonian",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"永遠の",
+    "ExampleSentence":"The report used several aeonian descriptions."
+  },
+  {
+    "Word":"aesthetic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"審美的な",
+    "ExampleSentence":"She delivered an aesthetic speech."
+  },
+  {
+    "Word":"affable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気さくな",
+    "ExampleSentence":"He was an affable host."
+  },
+  {
+    "Word":"affluence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"裕福",
+    "ExampleSentence":"This issue created a serious affluence."
+  },
+  {
+    "Word":"affray",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"騒乱",
+    "ExampleSentence":"The event turned into a major affray."
+  },
+  {
+    "Word":"affront",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"侮辱する",
+    "ExampleSentence":"The CEO decided to affront the plan."
+  },
+  {
+    "Word":"agape",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"口をあんぐり開けた",
+    "ExampleSentence":"The study highlighted several agape features."
+  },
+  {
+    "Word":"aggrandize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"権力を増大させる",
+    "ExampleSentence":"The CEO decided to aggrandize the plan."
+  },
+  {
+    "Word":"aggrandizement",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"権力拡大",
+    "ExampleSentence":"This issue created a serious aggrandizement."
+  },
+  {
+    "Word":"aggregate",
+    "PartOfSpeech":"n\/v",
+    "JapaneseMeaning":"集合（の）、総計する",
+    "ExampleSentence":"The figures were aggregated into a single report."
+  },
+  {
+    "Word":"agnate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"父系の",
+    "ExampleSentence":"The study highlighted several agnate features."
+  },
+  {
+    "Word":"agnostic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不可知論の",
+    "ExampleSentence":"The report used several agnostic descriptions."
+  },
+  {
+    "Word":"alacrity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"敏捷、積極性",
+    "ExampleSentence":"She accepted the invitation with alacrity."
+  },
+  {
+    "Word":"alchemy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"錬金術",
+    "ExampleSentence":"That incident became a major alchemy."
+  },
+  {
+    "Word":"aleatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"偶然の",
+    "ExampleSentence":"The study highlighted several aleatory features."
+  },
+  {
+    "Word":"allay",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"和らげる",
+    "ExampleSentence":"The president’s speech allayed public fears."
+  },
+  {
+    "Word":"allege",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"主張する",
+    "ExampleSentence":"The CEO decided to allege the plan."
+  },
+  {
+    "Word":"alluvial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"沖積の",
+    "ExampleSentence":"The study highlighted several alluvial features."
+  },
+  {
+    "Word":"almighty",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"全能の",
+    "ExampleSentence":"The study highlighted several almighty features."
+  },
+  {
+    "Word":"altercation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"口論",
+    "ExampleSentence":"That incident became a major altercation."
+  },
+  {
+    "Word":"alterity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"他者性",
+    "ExampleSentence":"The event turned into a major alterity."
+  },
+  {
+    "Word":"altruism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"利他主義",
+    "ExampleSentence":"This issue created a serious altruism."
+  },
+  {
+    "Word":"amalgam",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"混合物",
+    "ExampleSentence":"This issue created a serious amalgam."
+  },
+  {
+    "Word":"amalgamate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"合併する",
+    "ExampleSentence":"The CEO decided to amalgamate the plan."
+  },
+  {
+    "Word":"amanuensis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"筆記助手",
+    "ExampleSentence":"The event turned into a major amanuensis."
+  },
+  {
+    "Word":"ambivalent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"相反する感情を持つ",
+    "ExampleSentence":"She delivered an ambivalent speech."
+  },
+  {
+    "Word":"ambulatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"歩行用の",
+    "ExampleSentence":"The report used several ambulatory descriptions."
+  },
+  {
+    "Word":"ambush",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"待ち伏せ",
+    "ExampleSentence":"This issue created a serious ambush."
+  },
+  {
+    "Word":"ameliorate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"改善する",
+    "ExampleSentence":"New policies were introduced to ameliorate working conditions."
+  },
+  {
+    "Word":"amelioration",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"改善",
+    "ExampleSentence":"This issue created a serious amelioration."
+  },
+  {
+    "Word":"amenable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"従順な",
+    "ExampleSentence":"The report used several amenable descriptions."
+  },
+  {
+    "Word":"amicable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"友好的な",
+    "ExampleSentence":"She delivered an amicable speech."
+  },
+  {
+    "Word":"amorphous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"形のない",
+    "ExampleSentence":"The report used several amorphous descriptions."
+  },
+  {
+    "Word":"anachronism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"時代錯誤",
+    "ExampleSentence":"This issue created a serious anachronism."
+  },
+  {
+    "Word":"anachronistic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"時代錯誤の",
+    "ExampleSentence":"She delivered an anachronistic speech."
+  },
+  {
+    "Word":"analgesic",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"鎮痛剤",
+    "ExampleSentence":"That incident became a major analgesic."
+  },
+  {
+    "Word":"anathema",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"忌み嫌うもの",
+    "ExampleSentence":"That incident became a major anathema."
+  },
+  {
+    "Word":"ancillary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"補助的な",
+    "ExampleSentence":"The company cut ancillary services."
+  },
+  {
+    "Word":"anemic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"貧血の",
+    "ExampleSentence":"The study highlighted several anemic features."
+  },
+  {
+    "Word":"animated",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"活気のある",
+    "ExampleSentence":"She delivered an animated speech."
+  },
+  {
+    "Word":"animosity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"敵意",
+    "ExampleSentence":"Long-standing animosity existed between the groups."
+  },
+  {
+    "Word":"animus",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"敵意",
+    "ExampleSentence":"The event turned into a major animus."
+  },
+  {
+    "Word":"annals",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"年代記",
+    "ExampleSentence":"The event turned into a major annals."
+  },
+  {
+    "Word":"annihilate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"全滅させる",
+    "ExampleSentence":"The board decided to annihilate the policy."
+  },
+  {
+    "Word":"anomaly",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"異常、例外",
+    "ExampleSentence":"There was an anomaly in the data."
+  },
+  {
+    "Word":"antedate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"先行する",
+    "ExampleSentence":"The board decided to antedate the policy."
+  },
+  {
+    "Word":"antipathy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"反感",
+    "ExampleSentence":"His antipathy toward authority was obvious."
+  },
+  {
+    "Word":"antipodes",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"正反対",
+    "ExampleSentence":"That incident became a major antipodes."
+  },
+  {
+    "Word":"antithetical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"対照的な",
+    "ExampleSentence":"The study highlighted several antithetical features."
+  },
+  {
+    "Word":"aplomb",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"沈着",
+    "ExampleSentence":"This issue created a serious aplomb."
+  },
+  {
+    "Word":"apocryphal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"真偽不明の",
+    "ExampleSentence":"She delivered an apocryphal speech."
+  },
+  {
+    "Word":"apogee",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"頂点",
+    "ExampleSentence":"The event turned into a major apogee."
+  },
+  {
+    "Word":"apostate",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"背教者",
+    "ExampleSentence":"This issue created a serious apostate."
+  },
+  {
+    "Word":"apostrophe",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"アポストロフィ",
+    "ExampleSentence":"The event turned into a major apostrophe."
+  },
+  {
+    "Word":"apotheosis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"頂点",
+    "ExampleSentence":"That incident became a major apotheosis."
+  },
+  {
+    "Word":"apparition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"幽霊",
+    "ExampleSentence":"The event turned into a major apparition."
+  },
+  {
+    "Word":"appease",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"なだめる",
+    "ExampleSentence":"The concessions did little to appease protesters."
+  },
+  {
+    "Word":"apposite",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"適切な",
+    "ExampleSentence":"The report used several apposite descriptions."
+  },
+  {
+    "Word":"apprise",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"知らせる",
+    "ExampleSentence":"We will apprise you of any changes."
+  },
+  {
+    "Word":"approbation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"称賛",
+    "ExampleSentence":"This issue created a serious approbation."
+  },
+  {
+    "Word":"arbiter",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"仲裁者",
+    "ExampleSentence":"That incident became a major arbiter."
+  },
+  {
+    "Word":"arbitrate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"仲裁する",
+    "ExampleSentence":"The committee decided to arbitrate the proposal."
+  },
+  {
+    "Word":"arboreal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"樹木の",
+    "ExampleSentence":"The report used several arboreal descriptions."
+  },
+  {
+    "Word":"arboretum",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"樹木園",
+    "ExampleSentence":"The event turned into a major arboretum."
+  },
+  {
+    "Word":"arcane",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"難解な",
+    "ExampleSentence":"The report used several arcane descriptions."
+  },
+  {
+    "Word":"archaic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"古風な",
+    "ExampleSentence":"She delivered an archaic speech."
+  },
+  {
+    "Word":"ardent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"情熱的な",
+    "ExampleSentence":"She delivered an ardent speech."
+  },
+  {
+    "Word":"arduous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"困難な",
+    "ExampleSentence":"Reaching the summit was an arduous task."
+  },
+  {
+    "Word":"argot",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"隠語",
+    "ExampleSentence":"This issue created a serious argot."
+  },
+  {
+    "Word":"arguable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"議論の余地がある",
+    "ExampleSentence":"The study highlighted several arguable features."
+  },
+  {
+    "Word":"arrant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"とんでもない",
+    "ExampleSentence":"The report used several arrant descriptions."
+  },
+  {
+    "Word":"arrogate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"横取りする",
+    "ExampleSentence":"The board decided to arrogate the policy."
+  },
+  {
+    "Word":"articulate",
+    "PartOfSpeech":"v\/adj",
+    "JapaneseMeaning":"明確に表現する／明瞭な",
+    "ExampleSentence":"She articulated her vision clearly."
+  },
+  {
+    "Word":"artifice",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"策略",
+    "ExampleSentence":"That incident became a major artifice."
+  },
+  {
+    "Word":"artless",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"飾り気のない",
+    "ExampleSentence":"The report used several artless descriptions."
+  },
+  {
+    "Word":"ascendancy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"支配",
+    "ExampleSentence":"This issue created a serious ascendancy."
+  },
+  {
+    "Word":"ascetic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"禁欲的な",
+    "ExampleSentence":"He led an ascetic lifestyle."
+  },
+  {
+    "Word":"asceticism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"禁欲主義",
+    "ExampleSentence":"The event turned into a major asceticism."
+  },
+  {
+    "Word":"asinine",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ばかげた",
+    "ExampleSentence":"The study highlighted several asinine features."
+  },
+  {
+    "Word":"asperity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"厳しさ",
+    "ExampleSentence":"That incident became a major asperity."
+  },
+  {
+    "Word":"asseverate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"断言する",
+    "ExampleSentence":"The CEO decided to asseverate the plan."
+  },
+  {
+    "Word":"asseveration",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"断言",
+    "ExampleSentence":"This issue created a serious asseveration."
+  },
+  {
+    "Word":"assiduity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"勤勉",
+    "ExampleSentence":"The event turned into a major assiduity."
+  },
+  {
+    "Word":"assiduous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"勤勉な",
+    "ExampleSentence":"Her assiduous efforts paid off."
+  },
+  {
+    "Word":"assuage",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"和らげる",
+    "ExampleSentence":"The committee decided to assuage the proposal."
+  },
+  {
+    "Word":"atavism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"先祖返り",
+    "ExampleSentence":"The event turned into a major atavism."
+  },
+  {
+    "Word":"atavistic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"先祖返りの",
+    "ExampleSentence":"The report used several atavistic descriptions."
+  },
+  {
+    "Word":"atone",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"償う",
+    "ExampleSentence":"The CEO decided to atone the plan."
+  },
+  {
+    "Word":"attenuate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"弱める",
+    "ExampleSentence":"Vaccination attenuates the severity of the disease."
+  },
+  {
+    "Word":"attenuation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"減衰",
+    "ExampleSentence":"The event turned into a major attenuation."
+  },
+  {
+    "Word":"attrition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"消耗",
+    "ExampleSentence":"That incident became a major attrition."
+  },
+  {
+    "Word":"audacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"大胆不敵な",
+    "ExampleSentence":"The audacious plan surprised everyone."
+  },
+  {
+    "Word":"auditory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"聴覚の",
+    "ExampleSentence":"The report used several auditory descriptions."
+  },
+  {
+    "Word":"augury",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"前兆",
+    "ExampleSentence":"The event turned into a major augury."
+  },
+  {
+    "Word":"august",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"荘厳な",
+    "ExampleSentence":"She delivered an august speech."
+  },
+  {
+    "Word":"auricular",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"耳の",
+    "ExampleSentence":"The study highlighted several auricular features."
+  },
+  {
+    "Word":"auspice",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"前兆",
+    "ExampleSentence":"This issue created a serious auspice."
+  },
+  {
+    "Word":"auspicious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"幸先の良い",
+    "ExampleSentence":"She delivered an auspicious speech."
+  },
+  {
+    "Word":"austere",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"厳格な、質素な",
+    "ExampleSentence":"The monastery has an austere interior."
+  },
+  {
+    "Word":"austerity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"緊縮",
+    "ExampleSentence":"The event turned into a major austerity."
+  },
+  {
+    "Word":"autarky",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"経済自給自足",
+    "ExampleSentence":"The event turned into a major autarky."
+  },
+  {
+    "Word":"autodidact",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"独学者",
+    "ExampleSentence":"The event turned into a major autodidact."
+  },
+  {
+    "Word":"autonomous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"自主的な",
+    "ExampleSentence":"She delivered an autonomous speech."
+  },
+  {
+    "Word":"auxiliary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"補助の",
+    "ExampleSentence":"The report used several auxiliary descriptions."
+  },
+  {
+    "Word":"avarice",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"強欲",
+    "ExampleSentence":"Avarice led to his downfall."
+  },
+  {
+    "Word":"avaricious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"貪欲な",
+    "ExampleSentence":"The study highlighted several avaricious features."
+  },
+  {
+    "Word":"aversion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"嫌悪",
+    "ExampleSentence":"That incident became a major aversion."
+  },
+  {
+    "Word":"aviary",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"鳥小屋",
+    "ExampleSentence":"The event turned into a major aviary."
+  },
+  {
+    "Word":"axiomatic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"自明の",
+    "ExampleSentence":"The report used several axiomatic descriptions."
+  },
+  {
+    "Word":"balderdash",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"たわごと",
+    "ExampleSentence":"The event turned into a major balderdash."
+  },
+  {
+    "Word":"baleful",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"有害な",
+    "ExampleSentence":"She delivered an baleful speech."
+  },
+  {
+    "Word":"balk",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ためらう",
+    "ExampleSentence":"The board decided to balk the policy."
+  },
+  {
+    "Word":"banal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"陳腐な",
+    "ExampleSentence":"The report used several banal descriptions."
+  },
+  {
+    "Word":"bane",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"災い",
+    "ExampleSentence":"That incident became a major bane."
+  },
+  {
+    "Word":"banter",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"冗談を言う",
+    "ExampleSentence":"The committee decided to banter the proposal."
+  },
+  {
+    "Word":"barrage",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"集中砲火",
+    "ExampleSentence":"This issue created a serious barrage."
+  },
+  {
+    "Word":"beatific",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"至福の",
+    "ExampleSentence":"The study highlighted several beatific features."
+  },
+  {
+    "Word":"bedlam",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大混乱",
+    "ExampleSentence":"The event turned into a major bedlam."
+  },
+  {
+    "Word":"bedraggled",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"薄汚い",
+    "ExampleSentence":"The report used several bedraggled descriptions."
+  },
+  {
+    "Word":"befuddle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"混乱させる",
+    "ExampleSentence":"The board decided to befuddle the policy."
+  },
+  {
+    "Word":"begrudge",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"惜しむ",
+    "ExampleSentence":"The committee decided to begrudge the proposal."
+  },
+  {
+    "Word":"beguile",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"だます",
+    "ExampleSentence":"The CEO decided to beguile the plan."
+  },
+  {
+    "Word":"belabor",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"繰り返し論じる",
+    "ExampleSentence":"The committee decided to belabor the proposal."
+  },
+  {
+    "Word":"beleaguer",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"包囲する",
+    "ExampleSentence":"The CEO decided to beleaguer the plan."
+  },
+  {
+    "Word":"beleaguered",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"包囲された",
+    "ExampleSentence":"The study highlighted several beleaguered features."
+  },
+  {
+    "Word":"belie",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"矛盾する",
+    "ExampleSentence":"The committee decided to belie the proposal."
+  },
+  {
+    "Word":"bellicose",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"好戦的な",
+    "ExampleSentence":"She delivered an bellicose speech."
+  },
+  {
+    "Word":"belligerent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"好戦的な",
+    "ExampleSentence":"The country adopted a belligerent stance."
+  },
+  {
+    "Word":"bellwether",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"先導者",
+    "ExampleSentence":"This issue created a serious bellwether."
+  },
+  {
+    "Word":"benediction",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"祝福",
+    "ExampleSentence":"The event turned into a major benediction."
+  },
+  {
+    "Word":"benevolent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"慈悲深い",
+    "ExampleSentence":"The foundation supports benevolent causes."
+  },
+  {
+    "Word":"benighted",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無知な",
+    "ExampleSentence":"The report used several benighted descriptions."
+  },
+  {
+    "Word":"benign",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"良性の",
+    "ExampleSentence":"She delivered an benign speech."
+  },
+  {
+    "Word":"bequeath",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"遺贈する",
+    "ExampleSentence":"The CEO decided to bequeath the plan."
+  },
+  {
+    "Word":"bequest",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"遺産",
+    "ExampleSentence":"This issue created a serious bequest."
+  },
+  {
+    "Word":"berate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"厳しく非難する",
+    "ExampleSentence":"The coach berated the team for mistakes."
+  },
+  {
+    "Word":"bereft",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"失って悲しむ",
+    "ExampleSentence":"She delivered an bereft speech."
+  },
+  {
+    "Word":"berth",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"停泊位置",
+    "ExampleSentence":"The event turned into a major berth."
+  },
+  {
+    "Word":"besmirch",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"汚す",
+    "ExampleSentence":"The board decided to besmirch the policy."
+  },
+  {
+    "Word":"betoken",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"示す",
+    "ExampleSentence":"The board decided to betoken the policy."
+  },
+  {
+    "Word":"bevy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"群れ",
+    "ExampleSentence":"This issue created a serious bevy."
+  },
+  {
+    "Word":"bibber",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"酒飲み",
+    "ExampleSentence":"The event turned into a major bibber."
+  },
+  {
+    "Word":"bibulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"酒好きの",
+    "ExampleSentence":"The report used several bibulous descriptions."
+  },
+  {
+    "Word":"bifurcate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"分岐する",
+    "ExampleSentence":"The CEO decided to bifurcate the plan."
+  },
+  {
+    "Word":"bilk",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"だまし取る",
+    "ExampleSentence":"The committee decided to bilk the proposal."
+  },
+  {
+    "Word":"bivouac",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"野営",
+    "ExampleSentence":"This issue created a serious bivouac."
+  },
+  {
+    "Word":"blanch",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"漂白する",
+    "ExampleSentence":"The board decided to blanch the policy."
+  },
+  {
+    "Word":"blandishment",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"甘言",
+    "ExampleSentence":"That incident became a major blandishment."
+  },
+  {
+    "Word":"blatancy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"露骨さ",
+    "ExampleSentence":"The event turned into a major blatancy."
+  },
+  {
+    "Word":"blatant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"あからさまな",
+    "ExampleSentence":"The report used several blatant descriptions."
+  },
+  {
+    "Word":"blight",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"荒廃",
+    "ExampleSentence":"The event turned into a major blight."
+  },
+  {
+    "Word":"blithe",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"快活な",
+    "ExampleSentence":"She delivered an blithe speech."
+  },
+  {
+    "Word":"blithely",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"のんきに",
+    "ExampleSentence":"They responded in a blithely style."
+  },
+  {
+    "Word":"bluster",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"怒鳴り散らす",
+    "ExampleSentence":"The board decided to bluster the policy."
+  },
+  {
+    "Word":"bode",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"前兆となる",
+    "ExampleSentence":"The committee decided to bode the proposal."
+  },
+  {
+    "Word":"boisterous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"騒々しい",
+    "ExampleSentence":"The study highlighted several boisterous features."
+  },
+  {
+    "Word":"bolster",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"強化する",
+    "ExampleSentence":"Tax cuts were used to bolster the economy."
+  },
+  {
+    "Word":"bombard",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"砲撃する",
+    "ExampleSentence":"The committee decided to bombard the proposal."
+  },
+  {
+    "Word":"bombast",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大言壮語",
+    "ExampleSentence":"The event turned into a major bombast."
+  },
+  {
+    "Word":"bombastic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"大げさな",
+    "ExampleSentence":"She delivered an bombastic speech."
+  },
+  {
+    "Word":"bona fide",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"真正の",
+    "ExampleSentence":"The report used several bona fide descriptions."
+  },
+  {
+    "Word":"bonhomie",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"愛想の良さ",
+    "ExampleSentence":"The event turned into a major bonhomie."
+  },
+  {
+    "Word":"boorish",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無作法な",
+    "ExampleSentence":"She delivered an boorish speech."
+  },
+  {
+    "Word":"bovine",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ウシの",
+    "ExampleSentence":"The report used several bovine descriptions."
+  },
+  {
+    "Word":"bowdlerize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"検閲する",
+    "ExampleSentence":"The board decided to bowdlerize the policy."
+  },
+  {
+    "Word":"brae",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"斜面",
+    "ExampleSentence":"The event turned into a major brae."
+  },
+  {
+    "Word":"bravado",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"虚勢",
+    "ExampleSentence":"The event turned into a major bravado."
+  },
+  {
+    "Word":"brazen",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ずうずうしい",
+    "ExampleSentence":"His brazen attitude shocked us."
+  },
+  {
+    "Word":"brevity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"簡潔さ",
+    "ExampleSentence":"That incident became a major brevity."
+  },
+  {
+    "Word":"bridle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"憤慨する",
+    "ExampleSentence":"The committee decided to bridle the proposal."
+  },
+  {
+    "Word":"bromide",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"決まり文句",
+    "ExampleSentence":"The event turned into a major bromide."
+  },
+  {
+    "Word":"brouhaha",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大騒ぎ",
+    "ExampleSentence":"The event turned into a major brouhaha."
+  },
+  {
+    "Word":"brusque",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無愛想な",
+    "ExampleSentence":"The report used several brusque descriptions."
+  },
+  {
+    "Word":"bucolic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"牧歌的な",
+    "ExampleSentence":"She delivered an bucolic speech."
+  },
+  {
+    "Word":"buffoon",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"道化師",
+    "ExampleSentence":"This issue created a serious buffoon."
+  },
+  {
+    "Word":"bulwark",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"防波堤",
+    "ExampleSentence":"The event turned into a major bulwark."
+  },
+  {
+    "Word":"bumptious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"うぬぼれた",
+    "ExampleSentence":"The study highlighted several bumptious features."
+  },
+  {
+    "Word":"burgeon",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"急成長する",
+    "ExampleSentence":"The board decided to burgeon the policy."
+  },
+  {
+    "Word":"burgeoning",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"急成長する",
+    "ExampleSentence":"The burgeoning tech sector attracts investors."
+  },
+  {
+    "Word":"burnish",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"磨く",
+    "ExampleSentence":"The committee decided to burnish the proposal."
+  },
+  {
+    "Word":"cabal",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"陰謀団",
+    "ExampleSentence":"That incident became a major cabal."
+  },
+  {
+    "Word":"cachet",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"威信",
+    "ExampleSentence":"That incident became a major cachet."
+  },
+  {
+    "Word":"cacophonous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"耳障りな",
+    "ExampleSentence":"The report used several cacophonous descriptions."
+  },
+  {
+    "Word":"cacophony",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"不協和音",
+    "ExampleSentence":"A cacophony of car horns filled the air."
+  },
+  {
+    "Word":"cadaver",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"死体",
+    "ExampleSentence":"The event turned into a major cadaver."
+  },
+  {
+    "Word":"cadaverous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"死体のような",
+    "ExampleSentence":"She delivered an cadaverous speech."
+  },
+  {
+    "Word":"cadence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"抑揚",
+    "ExampleSentence":"This issue created a serious cadence."
+  },
+  {
+    "Word":"cajole",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"甘言で説得する",
+    "ExampleSentence":"The CEO decided to cajole the plan."
+  },
+  {
+    "Word":"cajolery",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"甘言",
+    "ExampleSentence":"The event turned into a major cajolery."
+  },
+  {
+    "Word":"calamity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大災害",
+    "ExampleSentence":"This issue created a serious calamity."
+  },
+  {
+    "Word":"calibrate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"調整する",
+    "ExampleSentence":"The board decided to calibrate the policy."
+  },
+  {
+    "Word":"callous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"冷淡な",
+    "ExampleSentence":"The report used several callous descriptions."
+  },
+  {
+    "Word":"calumny",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"中傷",
+    "ExampleSentence":"That incident became a major calumny."
+  },
+  {
+    "Word":"camaraderie",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"友情",
+    "ExampleSentence":"This issue created a serious camaraderie."
+  },
+  {
+    "Word":"camarilla",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"側近集団",
+    "ExampleSentence":"The event turned into a major camarilla."
+  },
+  {
+    "Word":"canard",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"デマ",
+    "ExampleSentence":"The event turned into a major canard."
+  },
+  {
+    "Word":"candor",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"率直さ",
+    "ExampleSentence":"I appreciate your candor."
+  },
+  {
+    "Word":"canny",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"抜け目ない",
+    "ExampleSentence":"The study highlighted several canny features."
+  },
+  {
+    "Word":"cantankerous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"喧嘩早い",
+    "ExampleSentence":"She delivered an cantankerous speech."
+  },
+  {
+    "Word":"capacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"広々とした",
+    "ExampleSentence":"The report used several capacious descriptions."
+  },
+  {
+    "Word":"capitulate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"降伏する",
+    "ExampleSentence":"The rebels refused to capitulate."
+  },
+  {
+    "Word":"capitulation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"降伏",
+    "ExampleSentence":"The event turned into a major capitulation."
+  },
+  {
+    "Word":"caprice",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"気まぐれ",
+    "ExampleSentence":"The event turned into a major caprice."
+  },
+  {
+    "Word":"capricious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気まぐれな",
+    "ExampleSentence":"The weather here is capricious."
+  },
+  {
+    "Word":"captious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"あら捜しの",
+    "ExampleSentence":"She delivered an captious speech."
+  },
+  {
+    "Word":"captivate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"魅了する",
+    "ExampleSentence":"The board decided to captivate the policy."
+  },
+  {
+    "Word":"careen",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"よろめく",
+    "ExampleSentence":"The board decided to careen the policy."
+  },
+  {
+    "Word":"carnage",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大虐殺",
+    "ExampleSentence":"The event turned into a major carnage."
+  },
+  {
+    "Word":"carping",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"揚げ足取りの",
+    "ExampleSentence":"She delivered an carping speech."
+  },
+  {
+    "Word":"carte blanche",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"全権委任",
+    "ExampleSentence":"This issue created a serious carte blanche."
+  },
+  {
+    "Word":"cartographer",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"地図製作者",
+    "ExampleSentence":"The event turned into a major cartographer."
+  },
+  {
+    "Word":"castigate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"厳しく罰する",
+    "ExampleSentence":"The CEO decided to castigate the plan."
+  },
+  {
+    "Word":"castigation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"酷評",
+    "ExampleSentence":"The event turned into a major castigation."
+  },
+  {
+    "Word":"catalyst",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"触媒、引き金",
+    "ExampleSentence":"Her speech was a catalyst for change."
+  },
+  {
+    "Word":"catalyze",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"促進する",
+    "ExampleSentence":"The board decided to catalyze the policy."
+  },
+  {
+    "Word":"catharsis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"精神浄化",
+    "ExampleSentence":"The event turned into a major catharsis."
+  },
+  {
+    "Word":"cathartic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"精神浄化の",
+    "ExampleSentence":"She delivered an cathartic speech."
+  },
+  {
+    "Word":"catholic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"普遍的な",
+    "ExampleSentence":"The report used several catholic descriptions."
+  },
+  {
+    "Word":"caustic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"辛辣な",
+    "ExampleSentence":"She delivered an caustic speech."
+  },
+  {
+    "Word":"celerity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"敏速",
+    "ExampleSentence":"That incident became a major celerity."
+  },
+  {
+    "Word":"censure",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"非難する",
+    "ExampleSentence":"The CEO decided to censure the plan."
+  },
+  {
+    "Word":"cerulean",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"青空のような",
+    "ExampleSentence":"The study highlighted several cerulean features."
+  },
+  {
+    "Word":"chafe",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"擦りむく",
+    "ExampleSentence":"The board decided to chafe the policy."
+  },
+  {
+    "Word":"chagrin",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"無念",
+    "ExampleSentence":"That incident became a major chagrin."
+  },
+  {
+    "Word":"charlatan",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ペテン師",
+    "ExampleSentence":"That incident became a major charlatan."
+  },
+  {
+    "Word":"chary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"慎重な",
+    "ExampleSentence":"The study highlighted several chary features."
+  },
+  {
+    "Word":"chastise",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"叱責する",
+    "ExampleSentence":"The CEO decided to chastise the plan."
+  },
+  {
+    "Word":"chicanery",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"策略",
+    "ExampleSentence":"That incident became a major chicanery."
+  },
+  {
+    "Word":"chimerical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"架空の",
+    "ExampleSentence":"The study highlighted several chimerical features."
+  },
+  {
+    "Word":"choleric",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"怒りっぽい",
+    "ExampleSentence":"The report used several choleric descriptions."
+  },
+  {
+    "Word":"churlish",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無作法な",
+    "ExampleSentence":"The study highlighted several churlish features."
+  },
+  {
+    "Word":"circumscribe",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"制限する",
+    "ExampleSentence":"The board decided to circumscribe the policy."
+  },
+  {
+    "Word":"circumspect",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"慎重な",
+    "ExampleSentence":"She delivered an circumspect speech."
+  },
+  {
+    "Word":"circumvent",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"回避する",
+    "ExampleSentence":"The committee decided to circumvent the proposal."
+  },
+  {
+    "Word":"cite",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"引用する",
+    "ExampleSentence":"The board decided to cite the policy."
+  },
+  {
+    "Word":"clairvoyant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"透視の",
+    "ExampleSentence":"The report used several clairvoyant descriptions."
+  },
+  {
+    "Word":"clandestine",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"秘密の",
+    "ExampleSentence":"They held a clandestine meeting."
+  },
+  {
+    "Word":"clarion",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"明瞭な",
+    "ExampleSentence":"The study highlighted several clarion features."
+  },
+  {
+    "Word":"cleave",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"切り裂く",
+    "ExampleSentence":"The committee decided to cleave the proposal."
+  },
+  {
+    "Word":"clemency",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"寛大さ",
+    "ExampleSentence":"That incident became a major clemency."
+  },
+  {
+    "Word":"clique",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"派閥",
+    "ExampleSentence":"The event turned into a major clique."
+  },
+  {
+    "Word":"coadjutor",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"助手",
+    "ExampleSentence":"The event turned into a major coadjutor."
+  },
+  {
+    "Word":"coagulate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"凝固する",
+    "ExampleSentence":"The CEO decided to coagulate the plan."
+  },
+  {
+    "Word":"coalesce",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"合体する",
+    "ExampleSentence":"The committee decided to coalesce the proposal."
+  },
+  {
+    "Word":"coercion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"強制",
+    "ExampleSentence":"He confessed under coercion."
+  },
+  {
+    "Word":"cogent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"説得力のある",
+    "ExampleSentence":"She presented a cogent argument."
+  },
+  {
+    "Word":"cogitate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"熟考する",
+    "ExampleSentence":"The CEO decided to cogitate the plan."
+  },
+  {
+    "Word":"cognizant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"認識している",
+    "ExampleSentence":"The study highlighted several cognizant features."
+  },
+  {
+    "Word":"cohesive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"粘着性のある",
+    "ExampleSentence":"She delivered an cohesive speech."
+  },
+  {
+    "Word":"collateral",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"担保",
+    "ExampleSentence":"That incident became a major collateral."
+  },
+  {
+    "Word":"colloquial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"口語的な",
+    "ExampleSentence":"She delivered an colloquial speech."
+  },
+  {
+    "Word":"colloquy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"会談",
+    "ExampleSentence":"This issue created a serious colloquy."
+  },
+  {
+    "Word":"collude",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"共謀する",
+    "ExampleSentence":"The board decided to collude the policy."
+  },
+  {
+    "Word":"comity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"礼儀",
+    "ExampleSentence":"The event turned into a major comity."
+  },
+  {
+    "Word":"commensurate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"釣り合った",
+    "ExampleSentence":"The report used several commensurate descriptions."
+  },
+  {
+    "Word":"commiserate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"同情する",
+    "ExampleSentence":"The CEO decided to commiserate the plan."
+  },
+  {
+    "Word":"commodious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"広々とした",
+    "ExampleSentence":"The study highlighted several commodious features."
+  },
+  {
+    "Word":"compendium",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"概説",
+    "ExampleSentence":"That incident became a major compendium."
+  },
+  {
+    "Word":"complacency",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"自己満足",
+    "ExampleSentence":"That incident became a major complacency."
+  },
+  {
+    "Word":"complacent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"自己満足した",
+    "ExampleSentence":"We must not become complacent."
+  },
+  {
+    "Word":"complicit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"共謀の",
+    "ExampleSentence":"The report used several complicit descriptions."
+  },
+  {
+    "Word":"comport",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ふるまう",
+    "ExampleSentence":"The board decided to comport the policy."
+  },
+  {
+    "Word":"compunction",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"良心の呵責",
+    "ExampleSentence":"That incident became a major compunction."
+  },
+  {
+    "Word":"concatenate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"連結する",
+    "ExampleSentence":"The committee decided to concatenate the proposal."
+  },
+  {
+    "Word":"conciliate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"和解する",
+    "ExampleSentence":"The board decided to conciliate the policy."
+  },
+  {
+    "Word":"conciliatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"融和的な",
+    "ExampleSentence":"She delivered an conciliatory speech."
+  },
+  {
+    "Word":"concur",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"一致する",
+    "ExampleSentence":"The board decided to concur the policy."
+  },
+  {
+    "Word":"condone",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"黙認する",
+    "ExampleSentence":"The board decided to condone the policy."
+  },
+  {
+    "Word":"conducive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"貢献する",
+    "ExampleSentence":"The report used several conducive descriptions."
+  },
+  {
+    "Word":"conflagration",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大火",
+    "ExampleSentence":"That incident became a major conflagration."
+  },
+  {
+    "Word":"conflate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"融合する",
+    "ExampleSentence":"The board decided to conflate the policy."
+  },
+  {
+    "Word":"confluence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"合流",
+    "ExampleSentence":"That incident became a major confluence."
+  },
+  {
+    "Word":"confluent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"合流する",
+    "ExampleSentence":"The report used several confluent descriptions."
+  },
+  {
+    "Word":"confound",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"混乱させる",
+    "ExampleSentence":"The board decided to confound the policy."
+  },
+  {
+    "Word":"congeal",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"凝固する",
+    "ExampleSentence":"The board decided to congeal the policy."
+  },
+  {
+    "Word":"congenial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気が合う",
+    "ExampleSentence":"She delivered an congenial speech."
+  },
+  {
+    "Word":"congenital",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"先天的な",
+    "ExampleSentence":"The report used several congenital descriptions."
+  },
+  {
+    "Word":"conifer",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"針葉樹",
+    "ExampleSentence":"The event turned into a major conifer."
+  },
+  {
+    "Word":"conjectural",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"推測の",
+    "ExampleSentence":"The report used several conjectural descriptions."
+  },
+  {
+    "Word":"conjecture",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"推測",
+    "ExampleSentence":"That incident became a major conjecture."
+  },
+  {
+    "Word":"connive",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"見て見ぬふりをする",
+    "ExampleSentence":"The CEO decided to connive the plan."
+  },
+  {
+    "Word":"connote",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"含意する",
+    "ExampleSentence":"The committee decided to connote the proposal."
+  },
+  {
+    "Word":"connubial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"夫婦の",
+    "ExampleSentence":"The study highlighted several connubial features."
+  },
+  {
+    "Word":"consanguineous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"同族の",
+    "ExampleSentence":"The report used several consanguineous descriptions."
+  },
+  {
+    "Word":"consign",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"託す",
+    "ExampleSentence":"The board decided to consign the policy."
+  },
+  {
+    "Word":"consternation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"驚愕",
+    "ExampleSentence":"That incident became a major consternation."
+  },
+  {
+    "Word":"constituent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"構成する",
+    "ExampleSentence":"The report used several constituent descriptions."
+  },
+  {
+    "Word":"constriction",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"収縮",
+    "ExampleSentence":"The event turned into a major constriction."
+  },
+  {
+    "Word":"construe",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"解釈する",
+    "ExampleSentence":"The CEO decided to construe the plan."
+  },
+  {
+    "Word":"consummate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"完成させる",
+    "ExampleSentence":"The CEO decided to consummate the plan."
+  },
+  {
+    "Word":"contemptuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"軽蔑的な",
+    "ExampleSentence":"She delivered an contemptuous speech."
+  },
+  {
+    "Word":"contend",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"争う",
+    "ExampleSentence":"The committee decided to contend the proposal."
+  },
+  {
+    "Word":"contiguity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"接近",
+    "ExampleSentence":"The event turned into a major contiguity."
+  },
+  {
+    "Word":"contiguous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"隣接する",
+    "ExampleSentence":"The report used several contiguous descriptions."
+  },
+  {
+    "Word":"contortion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ねじれ",
+    "ExampleSentence":"The event turned into a major contortion."
+  },
+  {
+    "Word":"contravene",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"違反する",
+    "ExampleSentence":"The committee decided to contravene the proposal."
+  },
+  {
+    "Word":"contretemps",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"争い",
+    "ExampleSentence":"The event turned into a major contretemps."
+  },
+  {
+    "Word":"contrite",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悔恨の",
+    "ExampleSentence":"She delivered an contrite speech."
+  },
+  {
+    "Word":"contumacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"反抗的な",
+    "ExampleSentence":"She delivered an contumacious speech."
+  },
+  {
+    "Word":"conundrum",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"難問",
+    "ExampleSentence":"The energy crisis is a complex conundrum."
+  },
+  {
+    "Word":"convivial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"陽気な",
+    "ExampleSentence":"She delivered an convivial speech."
+  },
+  {
+    "Word":"convocation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"集会",
+    "ExampleSentence":"The event turned into a major convocation."
+  },
+  {
+    "Word":"convoluted",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"複雑な",
+    "ExampleSentence":"The contract’s language is convoluted."
+  },
+  {
+    "Word":"convulsion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"痙攣",
+    "ExampleSentence":"This issue created a serious convulsion."
+  },
+  {
+    "Word":"copacetic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"申し分ない",
+    "ExampleSentence":"The report used several copacetic descriptions."
+  },
+  {
+    "Word":"copious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"大量の",
+    "ExampleSentence":"She delivered an copious speech."
+  },
+  {
+    "Word":"cordial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"心からの",
+    "ExampleSentence":"The study highlighted several cordial features."
+  },
+  {
+    "Word":"cornice",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ひさし",
+    "ExampleSentence":"The event turned into a major cornice."
+  },
+  {
+    "Word":"cornucopia",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"豊富さ",
+    "ExampleSentence":"This issue created a serious cornucopia."
+  },
+  {
+    "Word":"corollary",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"結果",
+    "ExampleSentence":"This issue created a serious corollary."
+  },
+  {
+    "Word":"coronate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"戴冠させる",
+    "ExampleSentence":"The board decided to coronate the policy."
+  },
+  {
+    "Word":"corroborate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"裏付ける",
+    "ExampleSentence":"The CEO decided to corroborate the plan."
+  },
+  {
+    "Word":"corroboration",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"裏付け",
+    "ExampleSentence":"The event turned into a major corroboration."
+  },
+  {
+    "Word":"cosmology",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"宇宙論",
+    "ExampleSentence":"The event turned into a major cosmology."
+  },
+  {
+    "Word":"cosset",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"甘やかす",
+    "ExampleSentence":"The committee decided to cosset the proposal."
+  },
+  {
+    "Word":"coterie",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"仲間",
+    "ExampleSentence":"This issue created a serious coterie."
+  },
+  {
+    "Word":"covenant",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"契約",
+    "ExampleSentence":"The event turned into a major covenant."
+  },
+  {
+    "Word":"covet",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"切望する",
+    "ExampleSentence":"The committee decided to covet the proposal."
+  },
+  {
+    "Word":"covetous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"貪欲な",
+    "ExampleSentence":"The study highlighted several covetous features."
+  },
+  {
+    "Word":"cower",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"すくむ",
+    "ExampleSentence":"The committee decided to cower the proposal."
+  },
+  {
+    "Word":"coy",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"恥ずかしがる",
+    "ExampleSentence":"The study highlighted several coy features."
+  },
+  {
+    "Word":"crass",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"粗野な",
+    "ExampleSentence":"The report used several crass descriptions."
+  },
+  {
+    "Word":"craven",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"臆病な",
+    "ExampleSentence":"The study highlighted several craven features."
+  },
+  {
+    "Word":"credence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"信頼",
+    "ExampleSentence":"That incident became a major credence."
+  },
+  {
+    "Word":"credulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"だまされやすい",
+    "ExampleSentence":"Credulous investors lost their savings."
+  },
+  {
+    "Word":"crestfallen",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"落胆した",
+    "ExampleSentence":"The report used several crestfallen descriptions."
+  },
+  {
+    "Word":"crotchety",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気難しい",
+    "ExampleSentence":"The study highlighted several crotchety features."
+  },
+  {
+    "Word":"cryptic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不可解な",
+    "ExampleSentence":"She delivered an cryptic speech."
+  },
+  {
+    "Word":"cryptogram",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"暗号",
+    "ExampleSentence":"The event turned into a major cryptogram."
+  },
+  {
+    "Word":"culminate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"最高潮に達する",
+    "ExampleSentence":"The committee decided to culminate the proposal."
+  },
+  {
+    "Word":"culpability",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"咎められること",
+    "ExampleSentence":"The event turned into a major culpability."
+  },
+  {
+    "Word":"culpable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"咎めるべき",
+    "ExampleSentence":"She delivered an culpable speech."
+  },
+  {
+    "Word":"cupidity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"強欲",
+    "ExampleSentence":"This issue created a serious cupidity."
+  },
+  {
+    "Word":"cupola",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ドーム",
+    "ExampleSentence":"The event turned into a major cupola."
+  },
+  {
+    "Word":"curative",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"治療の",
+    "ExampleSentence":"The study highlighted several curative features."
+  },
+  {
+    "Word":"curator",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"学芸員",
+    "ExampleSentence":"The event turned into a major curator."
+  },
+  {
+    "Word":"curmudgeon",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"意地悪じいさん",
+    "ExampleSentence":"This issue created a serious curmudgeon."
+  },
+  {
+    "Word":"curtail",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"削減する",
+    "ExampleSentence":"The CEO decided to curtail the plan."
+  },
+  {
+    "Word":"curtailment",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"削減",
+    "ExampleSentence":"The event turned into a major curtailment."
+  },
+  {
+    "Word":"cynosure",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"注目の的",
+    "ExampleSentence":"The event turned into a major cynosure."
+  },
+  {
+    "Word":"dalliance",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"戯れ",
+    "ExampleSentence":"The event turned into a major dalliance."
+  },
+  {
+    "Word":"dapper",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"小ぎれいな",
+    "ExampleSentence":"The study highlighted several dapper features."
+  },
+  {
+    "Word":"dauntless",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"大胆不敵な",
+    "ExampleSentence":"She delivered an dauntless speech."
+  },
+  {
+    "Word":"debacle",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大失敗",
+    "ExampleSentence":"That incident became a major debacle."
+  },
+  {
+    "Word":"debilitate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"弱らせる",
+    "ExampleSentence":"The CEO decided to debilitate the plan."
+  },
+  {
+    "Word":"debunk",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"暴露する",
+    "ExampleSentence":"The board decided to debunk the policy."
+  },
+  {
+    "Word":"decadence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"退廃",
+    "ExampleSentence":"That incident became a major decadence."
+  },
+  {
+    "Word":"decimate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"大量に減らす",
+    "ExampleSentence":"The board decided to decimate the policy."
+  },
+  {
+    "Word":"decorous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"礼儀正しい",
+    "ExampleSentence":"The study highlighted several decorous features."
+  },
+  {
+    "Word":"decorum",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"礼儀",
+    "ExampleSentence":"That incident became a major decorum."
+  },
+  {
+    "Word":"decrepit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"老朽化した",
+    "ExampleSentence":"She delivered an decrepit speech."
+  },
+  {
+    "Word":"decrepitude",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"老衰",
+    "ExampleSentence":"The event turned into a major decrepitude."
+  },
+  {
+    "Word":"decry",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"非難する",
+    "ExampleSentence":"The CEO decided to decry the plan."
+  },
+  {
+    "Word":"defame",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"名誉を傷つける",
+    "ExampleSentence":"The board decided to defame the policy."
+  },
+  {
+    "Word":"deflationary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"デフレの",
+    "ExampleSentence":"The study highlighted several deflationary features."
+  },
+  {
+    "Word":"deflect",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"そらす",
+    "ExampleSentence":"The board decided to deflect the policy."
+  },
+  {
+    "Word":"defunct",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"現存しない",
+    "ExampleSentence":"She delivered an defunct speech."
+  },
+  {
+    "Word":"degenerate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"退化した",
+    "ExampleSentence":"The study highlighted several degenerate features."
+  },
+  {
+    "Word":"deleterious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"有害な",
+    "ExampleSentence":"Smoking has deleterious effects."
+  },
+  {
+    "Word":"deluge",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大洪水",
+    "ExampleSentence":"The event turned into a major deluge."
+  },
+  {
+    "Word":"demagogue",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"扇動政治家",
+    "ExampleSentence":"That incident became a major demagogue."
+  },
+  {
+    "Word":"demarcate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"境界を定める",
+    "ExampleSentence":"The committee decided to demarcate the proposal."
+  },
+  {
+    "Word":"demean",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"品位を落とす",
+    "ExampleSentence":"The CEO decided to demean the plan."
+  },
+  {
+    "Word":"demerit",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"欠点",
+    "ExampleSentence":"This issue created a serious demerit."
+  },
+  {
+    "Word":"demur",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"異議を唱える",
+    "ExampleSentence":"The CEO decided to demur the plan."
+  },
+  {
+    "Word":"demure",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"控えめな",
+    "ExampleSentence":"She gave a demure smile."
+  },
+  {
+    "Word":"denigrate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"中傷する",
+    "ExampleSentence":"The committee decided to denigrate the proposal."
+  },
+  {
+    "Word":"denizen",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"住人",
+    "ExampleSentence":"That incident became a major denizen."
+  },
+  {
+    "Word":"denouement",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大団円",
+    "ExampleSentence":"The event turned into a major denouement."
+  },
+  {
+    "Word":"denounce",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"公然と非難する",
+    "ExampleSentence":"Activists denounced the policy."
+  },
+  {
+    "Word":"depict",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"描く",
+    "ExampleSentence":"The board decided to depict the policy."
+  },
+  {
+    "Word":"deposition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"堆積",
+    "ExampleSentence":"The event turned into a major deposition."
+  },
+  {
+    "Word":"depravity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"堕落",
+    "ExampleSentence":"That incident became a major depravity."
+  },
+  {
+    "Word":"deprecate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"非難する",
+    "ExampleSentence":"The CEO decided to deprecate the plan."
+  },
+  {
+    "Word":"derange",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"狂わせる",
+    "ExampleSentence":"The board decided to derange the policy."
+  },
+  {
+    "Word":"deride",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"嘲笑する",
+    "ExampleSentence":"Critics derided the film."
+  },
+  {
+    "Word":"derogatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"軽蔑的な",
+    "ExampleSentence":"The report used several derogatory descriptions."
+  },
+  {
+    "Word":"descry",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"見つける",
+    "ExampleSentence":"The CEO decided to descry the plan."
+  },
+  {
+    "Word":"desiccated",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"乾燥した",
+    "ExampleSentence":"The study highlighted several desiccated features."
+  },
+  {
+    "Word":"despondent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"落胆した",
+    "ExampleSentence":"The report used several despondent descriptions."
+  },
+  {
+    "Word":"despot",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"暴君",
+    "ExampleSentence":"The despot ruled with an iron fist."
+  },
+  {
+    "Word":"despotism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"専制政治",
+    "ExampleSentence":"The event turned into a major despotism."
+  },
+  {
+    "Word":"destitute",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"極貧の",
+    "ExampleSentence":"The flood left thousands destitute."
+  },
+  {
+    "Word":"desultory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"散漫な",
+    "ExampleSentence":"She delivered an desultory speech."
+  },
+  {
+    "Word":"deterrence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"抑止",
+    "ExampleSentence":"The event turned into a major deterrence."
+  },
+  {
+    "Word":"deterrent",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"抑止力",
+    "ExampleSentence":"Harsh penalties act as a deterrent."
+  },
+  {
+    "Word":"detonate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"爆発させる",
+    "ExampleSentence":"The committee decided to detonate the proposal."
+  },
+  {
+    "Word":"detriment",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"損害",
+    "ExampleSentence":"The event turned into a major detriment."
+  },
+  {
+    "Word":"dexterity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"器用さ",
+    "ExampleSentence":"This issue created a serious dexterity."
+  },
+  {
+    "Word":"diabolical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"極悪の",
+    "ExampleSentence":"The study highlighted several diabolical features."
+  },
+  {
+    "Word":"diaphanous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"半透明の",
+    "ExampleSentence":"The report used several diaphanous descriptions."
+  },
+  {
+    "Word":"diatribe",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"痛烈な非難",
+    "ExampleSentence":"That incident became a major diatribe."
+  },
+  {
+    "Word":"dichotomous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"二分した",
+    "ExampleSentence":"The study highlighted several dichotomous features."
+  },
+  {
+    "Word":"dichotomy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"二分",
+    "ExampleSentence":"There is a clear dichotomy between theory and practice."
+  },
+  {
+    "Word":"dictum",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"格言",
+    "ExampleSentence":"This issue created a serious dictum."
+  },
+  {
+    "Word":"didactic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"教育的な",
+    "ExampleSentence":"The report used several didactic descriptions."
+  },
+  {
+    "Word":"diffidence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"遠慮",
+    "ExampleSentence":"The event turned into a major diffidence."
+  },
+  {
+    "Word":"diffident",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"内気な",
+    "ExampleSentence":"She delivered an diffident speech."
+  },
+  {
+    "Word":"diffuse",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"拡散する",
+    "ExampleSentence":"The committee decided to diffuse the proposal."
+  },
+  {
+    "Word":"digress",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"脱線する",
+    "ExampleSentence":"The CEO decided to digress the plan."
+  },
+  {
+    "Word":"digression",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"脱線",
+    "ExampleSentence":"The event turned into a major digression."
+  },
+  {
+    "Word":"dilapidate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"荒廃させる",
+    "ExampleSentence":"The committee decided to dilapidate the proposal."
+  },
+  {
+    "Word":"dilapidated",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"荒廃した",
+    "ExampleSentence":"They restored a dilapidated building."
+  },
+  {
+    "Word":"dilatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"遅れがちな",
+    "ExampleSentence":"She delivered an dilatory speech."
+  },
+  {
+    "Word":"diligent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"勤勉な",
+    "ExampleSentence":"The report used several diligent descriptions."
+  },
+  {
+    "Word":"diminution",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"減少",
+    "ExampleSentence":"This issue created a serious diminution."
+  },
+  {
+    "Word":"dirge",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"葬送歌",
+    "ExampleSentence":"The event turned into a major dirge."
+  },
+  {
+    "Word":"disavow",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"否認する",
+    "ExampleSentence":"The board decided to disavow the policy."
+  },
+  {
+    "Word":"disbar",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"弁護士資格を剥奪する",
+    "ExampleSentence":"The board decided to disbar the policy."
+  },
+  {
+    "Word":"disburse",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"支払う",
+    "ExampleSentence":"The board decided to disburse the policy."
+  },
+  {
+    "Word":"discern",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"識別する",
+    "ExampleSentence":"The CEO decided to discern the plan."
+  },
+  {
+    "Word":"disclaim",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"放棄する",
+    "ExampleSentence":"The board decided to disclaim the policy."
+  },
+  {
+    "Word":"discomfit",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"当惑させる",
+    "ExampleSentence":"The board decided to discomfit the policy."
+  },
+  {
+    "Word":"disconcert",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"動揺させる",
+    "ExampleSentence":"The committee decided to disconcert the proposal."
+  },
+  {
+    "Word":"disconsolate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悲嘆に暮れた",
+    "ExampleSentence":"The report used several disconsolate descriptions."
+  },
+  {
+    "Word":"discord",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"不和",
+    "ExampleSentence":"This issue created a serious discord."
+  },
+  {
+    "Word":"discordant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不調和な",
+    "ExampleSentence":"She delivered an discordant speech."
+  },
+  {
+    "Word":"discrete",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"別々の",
+    "ExampleSentence":"The report used several discrete descriptions."
+  },
+  {
+    "Word":"disdain",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"軽蔑",
+    "ExampleSentence":"That incident became a major disdain."
+  },
+  {
+    "Word":"disgruntled",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不満の",
+    "ExampleSentence":"The report used several disgruntled descriptions."
+  },
+  {
+    "Word":"disheveled",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"乱れた",
+    "ExampleSentence":"She delivered an disheveled speech."
+  },
+  {
+    "Word":"disingenuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不誠実な",
+    "ExampleSentence":"She delivered an disingenuous speech."
+  },
+  {
+    "Word":"disparage",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"見下す",
+    "ExampleSentence":"He disparaged her achievements."
+  },
+  {
+    "Word":"disparate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"異種の",
+    "ExampleSentence":"She delivered an disparate speech."
+  },
+  {
+    "Word":"dispassionate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"冷静な",
+    "ExampleSentence":"A judge must remain dispassionate."
+  },
+  {
+    "Word":"disperse",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"散らす",
+    "ExampleSentence":"The board decided to disperse the policy."
+  },
+  {
+    "Word":"dispirit",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"落胆させる",
+    "ExampleSentence":"The board decided to dispirit the policy."
+  },
+  {
+    "Word":"dispossess",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"奪う",
+    "ExampleSentence":"The board decided to dispossess the policy."
+  },
+  {
+    "Word":"disseminate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"広める",
+    "ExampleSentence":"The findings were disseminated widely."
+  },
+  {
+    "Word":"dissemination",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"普及",
+    "ExampleSentence":"This issue created a serious dissemination."
+  },
+  {
+    "Word":"dissipate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"散らす",
+    "ExampleSentence":"The CEO decided to dissipate the plan."
+  },
+  {
+    "Word":"dissolute",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"放蕩の",
+    "ExampleSentence":"The report used several dissolute descriptions."
+  },
+  {
+    "Word":"dissonant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不協和の",
+    "ExampleSentence":"The study highlighted several dissonant features."
+  },
+  {
+    "Word":"distend",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"膨張する",
+    "ExampleSentence":"The CEO decided to distend the plan."
+  },
+  {
+    "Word":"distill",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"蒸留する",
+    "ExampleSentence":"The committee decided to distill the proposal."
+  },
+  {
+    "Word":"dither",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ためらう",
+    "ExampleSentence":"The committee decided to dither the proposal."
+  },
+  {
+    "Word":"divagate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"脱線する",
+    "ExampleSentence":"The board decided to divagate the policy."
+  },
+  {
+    "Word":"diverge",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"分岐する",
+    "ExampleSentence":"The CEO decided to diverge the plan."
+  },
+  {
+    "Word":"divisive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"分裂を招く",
+    "ExampleSentence":"The report used several divisive descriptions."
+  },
+  {
+    "Word":"docent",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"講師",
+    "ExampleSentence":"The event turned into a major docent."
+  },
+  {
+    "Word":"docile",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"従順な",
+    "ExampleSentence":"She delivered an docile speech."
+  },
+  {
+    "Word":"dogged",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"粘り強い",
+    "ExampleSentence":"She delivered an dogged speech."
+  },
+  {
+    "Word":"dogma",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"教義",
+    "ExampleSentence":"This issue created a serious dogma."
+  },
+  {
+    "Word":"dogmatic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"独断的な",
+    "ExampleSentence":"His dogmatic views alienated colleagues."
+  },
+  {
+    "Word":"doldrums",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"停滞",
+    "ExampleSentence":"The event turned into a major doldrums."
+  },
+  {
+    "Word":"doleful",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悲しげな",
+    "ExampleSentence":"She delivered an doleful speech."
+  },
+  {
+    "Word":"dolorous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悲痛な",
+    "ExampleSentence":"The study highlighted several dolorous features."
+  },
+  {
+    "Word":"dormant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"休眠中の",
+    "ExampleSentence":"The report used several dormant descriptions."
+  },
+  {
+    "Word":"dovetail",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"調和する",
+    "ExampleSentence":"The board decided to dovetail the policy."
+  },
+  {
+    "Word":"dowdy",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"みすぼらしい",
+    "ExampleSentence":"The report used several dowdy descriptions."
+  },
+  {
+    "Word":"dragoon",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"強制する",
+    "ExampleSentence":"The board decided to dragoon the policy."
+  },
+  {
+    "Word":"droll",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"おかしな",
+    "ExampleSentence":"The report used several droll descriptions."
+  },
+  {
+    "Word":"drollery",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"滑稽",
+    "ExampleSentence":"The event turned into a major drollery."
+  },
+  {
+    "Word":"dubious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"疑わしい",
+    "ExampleSentence":"She delivered an dubious speech."
+  },
+  {
+    "Word":"dulcet",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"甘美な",
+    "ExampleSentence":"She delivered an dulcet speech."
+  },
+  {
+    "Word":"duplicitous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"二枚舌の",
+    "ExampleSentence":"A duplicitous politician betrayed voters."
+  },
+  {
+    "Word":"duress",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"強制",
+    "ExampleSentence":"This issue created a serious duress."
+  },
+  {
+    "Word":"ebullient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"活気に満ちた",
+    "ExampleSentence":"She was ebullient after the victory."
+  },
+  {
+    "Word":"ebullition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"沸騰",
+    "ExampleSentence":"This issue created a serious ebullition."
+  },
+  {
+    "Word":"eclectic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"折衷的な",
+    "ExampleSentence":"His taste in music is eclectic."
+  },
+  {
+    "Word":"eclecticism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"折衷主義",
+    "ExampleSentence":"The event turned into a major eclecticism."
+  },
+  {
+    "Word":"edict",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"勅令",
+    "ExampleSentence":"This issue created a serious edict."
+  },
+  {
+    "Word":"efface",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"消す",
+    "ExampleSentence":"The CEO decided to efface the plan."
+  },
+  {
+    "Word":"effervescent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"活気ある",
+    "ExampleSentence":"The study highlighted several effervescent features."
+  },
+  {
+    "Word":"efficacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"効果的な",
+    "ExampleSentence":"She delivered an efficacious speech."
+  },
+  {
+    "Word":"efficacy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"効力",
+    "ExampleSentence":"The event turned into a major efficacy."
+  },
+  {
+    "Word":"effrontery",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"厚かましさ",
+    "ExampleSentence":"This issue created a serious effrontery."
+  },
+  {
+    "Word":"effusive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"感情あふれる",
+    "ExampleSentence":"She delivered an effusive speech."
+  },
+  {
+    "Word":"egotistical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"自己中心的な",
+    "ExampleSentence":"She delivered an egotistical speech."
+  },
+  {
+    "Word":"egregious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ひどい",
+    "ExampleSentence":"The company made an egregious error."
+  },
+  {
+    "Word":"egress",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"出口",
+    "ExampleSentence":"The event turned into a major egress."
+  },
+  {
+    "Word":"elegy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"哀歌",
+    "ExampleSentence":"That incident became a major elegy."
+  },
+  {
+    "Word":"elicit",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"引き出す",
+    "ExampleSentence":"The interview elicited useful information."
+  },
+  {
+    "Word":"elucidate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"解明する",
+    "ExampleSentence":"Please elucidate your point."
+  },
+  {
+    "Word":"elusive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"捉えどころのない",
+    "ExampleSentence":"She delivered an elusive speech."
+  },
+  {
+    "Word":"emaciated",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"やせ衰えた",
+    "ExampleSentence":"She delivered an emaciated speech."
+  },
+  {
+    "Word":"emancipate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"解放する",
+    "ExampleSentence":"The committee decided to emancipate the proposal."
+  },
+  {
+    "Word":"embellish",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"美化する",
+    "ExampleSentence":"The CEO decided to embellish the plan."
+  },
+  {
+    "Word":"embezzle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"横領する",
+    "ExampleSentence":"The board decided to embezzle the policy."
+  },
+  {
+    "Word":"embroil",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"巻き込む",
+    "ExampleSentence":"He was embroiled in controversy."
+  },
+  {
+    "Word":"embryonic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"胎芽の",
+    "ExampleSentence":"The report used several embryonic descriptions."
+  },
+  {
+    "Word":"eminent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"著名な",
+    "ExampleSentence":"She delivered an eminent speech."
+  },
+  {
+    "Word":"emissary",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"使者",
+    "ExampleSentence":"This issue created a serious emissary."
+  },
+  {
+    "Word":"emollient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"柔らかくする",
+    "ExampleSentence":"The report used several emollient descriptions."
+  },
+  {
+    "Word":"empathy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"共感",
+    "ExampleSentence":"The event turned into a major empathy."
+  },
+  {
+    "Word":"empirical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"経験的な",
+    "ExampleSentence":"She delivered an empirical speech."
+  },
+  {
+    "Word":"emulate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"見習う、張り合う",
+    "ExampleSentence":"She emulates her mentor's success."
+  },
+  {
+    "Word":"enamor",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"夢中にさせる",
+    "ExampleSentence":"The board decided to enamor the policy."
+  },
+  {
+    "Word":"encapsulate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"要約する",
+    "ExampleSentence":"The board decided to encapsulate the policy."
+  },
+  {
+    "Word":"enclave",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"飛び地",
+    "ExampleSentence":"This issue created a serious enclave."
+  },
+  {
+    "Word":"encroach",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"侵害する",
+    "ExampleSentence":"The committee decided to encroach the proposal."
+  },
+  {
+    "Word":"endemic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"固有の",
+    "ExampleSentence":"The report used several endemic descriptions."
+  },
+  {
+    "Word":"enervate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"弱らせる",
+    "ExampleSentence":"The heat enervated the workers."
+  },
+  {
+    "Word":"enervating",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"弱らせるような",
+    "ExampleSentence":"The report used several enervating descriptions."
+  },
+  {
+    "Word":"engender",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"生み出す",
+    "ExampleSentence":"The policy engendered public trust."
+  },
+  {
+    "Word":"enigma",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"謎",
+    "ExampleSentence":"That incident became a major enigma."
+  },
+  {
+    "Word":"enmity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"敵意",
+    "ExampleSentence":"This issue created a serious enmity."
+  },
+  {
+    "Word":"ennui",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"倦怠",
+    "ExampleSentence":"This issue created a serious ennui."
+  },
+  {
+    "Word":"enqueue",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"列に入れる",
+    "ExampleSentence":"The board decided to enqueue the policy."
+  },
+  {
+    "Word":"enrapture",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"うっとりさせる",
+    "ExampleSentence":"The board decided to enrapture the policy."
+  },
+  {
+    "Word":"ensue",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"結果として起こる",
+    "ExampleSentence":"The CEO decided to ensue the plan."
+  },
+  {
+    "Word":"enthral",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"魅了する",
+    "ExampleSentence":"The board decided to enthral the policy."
+  },
+  {
+    "Word":"enthrall",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"魅了する",
+    "ExampleSentence":"The CEO decided to enthrall the plan."
+  },
+  {
+    "Word":"entomology",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"昆虫学",
+    "ExampleSentence":"The event turned into a major entomology."
+  },
+  {
+    "Word":"entreat",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"懇願する",
+    "ExampleSentence":"The committee decided to entreat the proposal."
+  },
+  {
+    "Word":"enumerate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"列挙する",
+    "ExampleSentence":"The CEO decided to enumerate the plan."
+  },
+  {
+    "Word":"enunciate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"明瞭に発音する",
+    "ExampleSentence":"The CEO decided to enunciate the plan."
+  },
+  {
+    "Word":"envision",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"心に描く",
+    "ExampleSentence":"The board decided to envision the policy."
+  },
+  {
+    "Word":"ephemeral",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"つかの間の",
+    "ExampleSentence":"Fame can be ephemeral."
+  },
+  {
+    "Word":"ephemeralness",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"短命",
+    "ExampleSentence":"The event turned into a major ephemeralness."
+  },
+  {
+    "Word":"epigram",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"警句",
+    "ExampleSentence":"This issue created a serious epigram."
+  },
+  {
+    "Word":"epiphany",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"啓示",
+    "ExampleSentence":"The event turned into a major epiphany."
+  },
+  {
+    "Word":"episodic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"挿話的な",
+    "ExampleSentence":"The study highlighted several episodic features."
+  },
+  {
+    "Word":"epitome",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"典型",
+    "ExampleSentence":"This issue created a serious epitome."
+  },
+  {
+    "Word":"equable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"穏やかな",
+    "ExampleSentence":"The report used several equable descriptions."
+  },
+  {
+    "Word":"equanimity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"平静",
+    "ExampleSentence":"That incident became a major equanimity."
+  },
+  {
+    "Word":"equanimous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"落ち着いた",
+    "ExampleSentence":"The study highlighted several equanimous features."
+  },
+  {
+    "Word":"equitable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"公平な",
+    "ExampleSentence":"We need an equitable solution."
+  },
+  {
+    "Word":"equivalent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"同等の",
+    "ExampleSentence":"The study highlighted several equivalent features."
+  },
+  {
+    "Word":"equivocal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"曖昧な",
+    "ExampleSentence":"The report used several equivocal descriptions."
+  },
+  {
+    "Word":"equivocate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"曖昧な言い方をする",
+    "ExampleSentence":"The CEO decided to equivocate the plan."
+  },
+  {
+    "Word":"eradicate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"根絶する",
+    "ExampleSentence":"The goal is to eradicate polio."
+  },
+  {
+    "Word":"errant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"誤った",
+    "ExampleSentence":"The study highlighted several errant features."
+  },
+  {
+    "Word":"ersatz",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"代用の",
+    "ExampleSentence":"The study highlighted several ersatz features."
+  },
+  {
+    "Word":"erudite",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"博識な",
+    "ExampleSentence":"She delivered an erudite speech."
+  },
+  {
+    "Word":"erudition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"博識",
+    "ExampleSentence":"The event turned into a major erudition."
+  },
+  {
+    "Word":"eschew",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"避ける",
+    "ExampleSentence":"The CEO decided to eschew the plan."
+  },
+  {
+    "Word":"esoteric",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"難解な、秘教的な",
+    "ExampleSentence":"Quantum mechanics can seem esoteric to beginners."
+  },
+  {
+    "Word":"espionage",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"諜報活動",
+    "ExampleSentence":"This issue created a serious espionage."
+  },
+  {
+    "Word":"espouse",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"支持する",
+    "ExampleSentence":"The CEO decided to espouse the plan."
+  },
+  {
+    "Word":"essence",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"本質",
+    "ExampleSentence":"This issue created a serious essence."
+  },
+  {
+    "Word":"estimable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"称賛に値する",
+    "ExampleSentence":"The report used several estimable descriptions."
+  },
+  {
+    "Word":"estranged",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"疎遠になった",
+    "ExampleSentence":"The study highlighted several estranged features."
+  },
+  {
+    "Word":"ethereal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"霊妙な",
+    "ExampleSentence":"She delivered an ethereal speech."
+  },
+  {
+    "Word":"etherealness",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"霊妙さ",
+    "ExampleSentence":"The event turned into a major etherealness."
+  },
+  {
+    "Word":"ethos",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"精神",
+    "ExampleSentence":"This issue created a serious ethos."
+  },
+  {
+    "Word":"euphemism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"婉曲表現",
+    "ExampleSentence":"This issue created a serious euphemism."
+  },
+  {
+    "Word":"euphoria",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"多幸感",
+    "ExampleSentence":"That incident became a major euphoria."
+  },
+  {
+    "Word":"evacuate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"避難させる",
+    "ExampleSentence":"The board decided to evacuate the policy."
+  },
+  {
+    "Word":"evanesce",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"消散する",
+    "ExampleSentence":"The board decided to evanesce the policy."
+  },
+  {
+    "Word":"evanescent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"はかない",
+    "ExampleSentence":"The report used several evanescent descriptions."
+  },
+  {
+    "Word":"evince",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"明らかに示す",
+    "ExampleSentence":"The committee decided to evince the proposal."
+  },
+  {
+    "Word":"evincible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"反証できる",
+    "ExampleSentence":"The study highlighted several evincible features."
+  },
+  {
+    "Word":"evoke",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"呼び起こす",
+    "ExampleSentence":"The board decided to evoke the policy."
+  },
+  {
+    "Word":"exacerbate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"悪化させる",
+    "ExampleSentence":"Cutting social programs would exacerbate poverty."
+  },
+  {
+    "Word":"exalt",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"賞賛する",
+    "ExampleSentence":"The committee decided to exalt the proposal."
+  },
+  {
+    "Word":"exaltation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"高揚",
+    "ExampleSentence":"The event turned into a major exaltation."
+  },
+  {
+    "Word":"exasperate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"憤慨させる",
+    "ExampleSentence":"The CEO decided to exasperate the plan."
+  },
+  {
+    "Word":"exasperation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"憤激",
+    "ExampleSentence":"This issue created a serious exasperation."
+  },
+  {
+    "Word":"excavate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"発掘する",
+    "ExampleSentence":"The board decided to excavate the policy."
+  },
+  {
+    "Word":"excoriate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"激しく非難する",
+    "ExampleSentence":"The CEO decided to excoriate the plan."
+  },
+  {
+    "Word":"exculpate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"無罪を証明する",
+    "ExampleSentence":"DNA evidence exculpated the defendant."
+  },
+  {
+    "Word":"exculpatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無罪を証明する",
+    "ExampleSentence":"The report used several exculpatory descriptions."
+  },
+  {
+    "Word":"execrable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ひどい",
+    "ExampleSentence":"The report used several execrable descriptions."
+  },
+  {
+    "Word":"execrate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"激しく非難する",
+    "ExampleSentence":"The board decided to execrate the policy."
+  },
+  {
+    "Word":"exhilarate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"活気づける",
+    "ExampleSentence":"The board decided to exhilarate the policy."
+  },
+  {
+    "Word":"exhort",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"強く勧める",
+    "ExampleSentence":"The CEO decided to exhort the plan."
+  },
+  {
+    "Word":"exigent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"切迫した",
+    "ExampleSentence":"The report used several exigent descriptions."
+  },
+  {
+    "Word":"exiguous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"乏しい",
+    "ExampleSentence":"The study highlighted several exiguous features."
+  },
+  {
+    "Word":"exonerate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"免責する",
+    "ExampleSentence":"The report exonerated her of wrongdoing."
+  },
+  {
+    "Word":"exoneration",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"免責",
+    "ExampleSentence":"This issue created a serious exoneration."
+  },
+  {
+    "Word":"expatiate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"詳述する",
+    "ExampleSentence":"The board decided to expatiate the policy."
+  },
+  {
+    "Word":"expatriate",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"国外居住者",
+    "ExampleSentence":"The event turned into a major expatriate."
+  },
+  {
+    "Word":"expedite",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"促進する",
+    "ExampleSentence":"The committee decided to expedite the proposal."
+  },
+  {
+    "Word":"expeditious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"迅速な",
+    "ExampleSentence":"She delivered an expeditious speech."
+  },
+  {
+    "Word":"expiate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"償う",
+    "ExampleSentence":"The committee decided to expiate the proposal."
+  },
+  {
+    "Word":"explicit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"明確な",
+    "ExampleSentence":"She delivered an explicit speech."
+  },
+  {
+    "Word":"expropriate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"収用する",
+    "ExampleSentence":"The committee decided to expropriate the proposal."
+  },
+  {
+    "Word":"expunge",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"抹消する",
+    "ExampleSentence":"The CEO decided to expunge the plan."
+  },
+  {
+    "Word":"extemporaneous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"即興の",
+    "ExampleSentence":"The report used several extemporaneous descriptions."
+  },
+  {
+    "Word":"extenuate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"情状を酌量する",
+    "ExampleSentence":"The committee decided to extenuate the proposal."
+  },
+  {
+    "Word":"extol",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"称賛する",
+    "ExampleSentence":"The CEO decided to extol the plan."
+  },
+  {
+    "Word":"extraneous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無関係な",
+    "ExampleSentence":"She delivered an extraneous speech."
+  },
+  {
+    "Word":"extricate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"救い出す",
+    "ExampleSentence":"The committee decided to extricate the proposal."
+  },
+  {
+    "Word":"exuberant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"非常に元気な",
+    "ExampleSentence":"She delivered an exuberant speech."
+  },
+  {
+    "Word":"exult",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"喜ぶ",
+    "ExampleSentence":"The committee decided to exult the proposal."
+  },
+  {
+    "Word":"facade",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"見せかけ",
+    "ExampleSentence":"That incident became a major facade."
+  },
+  {
+    "Word":"facetious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ひょうきんな",
+    "ExampleSentence":"The report used several facetious descriptions."
+  },
+  {
+    "Word":"facile",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"容易な",
+    "ExampleSentence":"She delivered an facile speech."
+  },
+  {
+    "Word":"fallacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"誤った",
+    "ExampleSentence":"She delivered an fallacious speech."
+  },
+  {
+    "Word":"fallibility",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"誤りやすさ",
+    "ExampleSentence":"This issue created a serious fallibility."
+  },
+  {
+    "Word":"fallible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"誤りやすい",
+    "ExampleSentence":"She delivered an fallible speech."
+  },
+  {
+    "Word":"fanaticism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"狂信",
+    "ExampleSentence":"That incident became a major fanaticism."
+  },
+  {
+    "Word":"farce",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"茶番",
+    "ExampleSentence":"This issue created a serious farce."
+  },
+  {
+    "Word":"fastidious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気難しい、潔癖な",
+    "ExampleSentence":"He is fastidious about workplace cleanliness."
+  },
+  {
+    "Word":"fathom",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"理解する",
+    "ExampleSentence":"The CEO decided to fathom the plan."
+  },
+  {
+    "Word":"fatuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"愚かな",
+    "ExampleSentence":"She delivered an fatuous speech."
+  },
+  {
+    "Word":"feasible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"実現可能な",
+    "ExampleSentence":"She delivered an feasible speech."
+  },
+  {
+    "Word":"fecund",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"肥沃な",
+    "ExampleSentence":"The report used several fecund descriptions."
+  },
+  {
+    "Word":"feeble",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"弱い",
+    "ExampleSentence":"The report used several feeble descriptions."
+  },
+  {
+    "Word":"felicity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"至福",
+    "ExampleSentence":"This issue created a serious felicity."
+  },
+  {
+    "Word":"fervent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"熱烈な",
+    "ExampleSentence":"She delivered an fervent speech."
+  },
+  {
+    "Word":"fervor",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"熱情",
+    "ExampleSentence":"This issue created a serious fervor."
+  },
+  {
+    "Word":"fetid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悪臭の",
+    "ExampleSentence":"The report used several fetid descriptions."
+  },
+  {
+    "Word":"fiasco",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大失敗",
+    "ExampleSentence":"That incident became a major fiasco."
+  },
+  {
+    "Word":"fidelity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"忠誠",
+    "ExampleSentence":"This issue created a serious fidelity."
+  },
+  {
+    "Word":"fiendish",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悪魔のような",
+    "ExampleSentence":"She delivered an fiendish speech."
+  },
+  {
+    "Word":"finesse",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"器用さ",
+    "ExampleSentence":"That incident became a major finesse."
+  },
+  {
+    "Word":"flagellate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"鞭打つ",
+    "ExampleSentence":"The committee decided to flagellate the proposal."
+  },
+  {
+    "Word":"flagrant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"目に余る",
+    "ExampleSentence":"It was a flagrant violation of the law."
+  },
+  {
+    "Word":"flamboyant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"派手な",
+    "ExampleSentence":"The report used several flamboyant descriptions."
+  },
+  {
+    "Word":"flippant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不真面目な",
+    "ExampleSentence":"She delivered an flippant speech."
+  },
+  {
+    "Word":"florid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"華美な",
+    "ExampleSentence":"She delivered an florid speech."
+  },
+  {
+    "Word":"flounder",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"もがく",
+    "ExampleSentence":"The committee decided to flounder the proposal."
+  },
+  {
+    "Word":"flout",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"軽視する",
+    "ExampleSentence":"Some drivers flout speed limits."
+  },
+  {
+    "Word":"fluctuate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"変動する",
+    "ExampleSentence":"The CEO decided to fluctuate the plan."
+  },
+  {
+    "Word":"flummox",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"当惑させる",
+    "ExampleSentence":"The committee decided to flummox the proposal."
+  },
+  {
+    "Word":"fodder",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"飼料",
+    "ExampleSentence":"This issue created a serious fodder."
+  },
+  {
+    "Word":"foible",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"弱点",
+    "ExampleSentence":"That incident became a major foible."
+  },
+  {
+    "Word":"foment",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"助長する",
+    "ExampleSentence":"The CEO decided to foment the plan."
+  },
+  {
+    "Word":"foreboding",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"予感",
+    "ExampleSentence":"That incident became a major foreboding."
+  },
+  {
+    "Word":"forgo",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"控える",
+    "ExampleSentence":"The CEO decided to forgo the plan."
+  },
+  {
+    "Word":"forlorn",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"孤独な",
+    "ExampleSentence":"The report used several forlorn descriptions."
+  },
+  {
+    "Word":"forte",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"得意分野",
+    "ExampleSentence":"This issue created a serious forte."
+  },
+  {
+    "Word":"fortitude",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"不屈の精神",
+    "ExampleSentence":"This issue created a serious fortitude."
+  },
+  {
+    "Word":"fortuitous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"偶然の",
+    "ExampleSentence":"Their encounter was entirely fortuitous."
+  },
+  {
+    "Word":"fracas",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"騒動",
+    "ExampleSentence":"That incident became a major fracas."
+  },
+  {
+    "Word":"fractious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"怒りっぽい",
+    "ExampleSentence":"She delivered an fractious speech."
+  },
+  {
+    "Word":"fracture",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"砕く",
+    "ExampleSentence":"The committee decided to fracture the proposal."
+  },
+  {
+    "Word":"frivolous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"軽薄な",
+    "ExampleSentence":"The report used several frivolous descriptions."
+  },
+  {
+    "Word":"frugal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"倹約的な",
+    "ExampleSentence":"She delivered an frugal speech."
+  },
+  {
+    "Word":"furtive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"こそこそした",
+    "ExampleSentence":"He cast a furtive glance at the door."
+  },
+  {
+    "Word":"furtiveness",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"こそこそすること",
+    "ExampleSentence":"This issue created a serious furtiveness."
+  },
+  {
+    "Word":"fusion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"融合",
+    "ExampleSentence":"This issue created a serious fusion."
+  },
+  {
+    "Word":"futile",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無益な",
+    "ExampleSentence":"She delivered an futile speech."
+  },
+  {
+    "Word":"gainsay",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"否定する",
+    "ExampleSentence":"The committee decided to gainsay the proposal."
+  },
+  {
+    "Word":"gallant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"勇敢な",
+    "ExampleSentence":"The report used several gallant descriptions."
+  },
+  {
+    "Word":"galvanize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"活気づける",
+    "ExampleSentence":"The speech galvanized the audience into action."
+  },
+  {
+    "Word":"garnish",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"飾る",
+    "ExampleSentence":"The committee decided to garnish the proposal."
+  },
+  {
+    "Word":"garrulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"おしゃべりな",
+    "ExampleSentence":"The garrulous host entertained guests all night."
+  },
+  {
+    "Word":"genial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"愛想の良い",
+    "ExampleSentence":"The report used several genial descriptions."
+  },
+  {
+    "Word":"genteel",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"上品な",
+    "ExampleSentence":"The report used several genteel descriptions."
+  },
+  {
+    "Word":"germane",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"密接な関係がある",
+    "ExampleSentence":"She delivered an germane speech."
+  },
+  {
+    "Word":"germinate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"発芽する",
+    "ExampleSentence":"The committee decided to germinate the proposal."
+  },
+  {
+    "Word":"giddy",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"めまいがする",
+    "ExampleSentence":"The report used several giddy descriptions."
+  },
+  {
+    "Word":"glacial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"冷淡な",
+    "ExampleSentence":"The report used several glacial descriptions."
+  },
+  {
+    "Word":"glean",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"拾い集める",
+    "ExampleSentence":"The CEO decided to glean the plan."
+  },
+  {
+    "Word":"glib",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"口先だけの",
+    "ExampleSentence":"She delivered an glib speech."
+  },
+  {
+    "Word":"gloat",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ほくそ笑む",
+    "ExampleSentence":"The committee decided to gloat the proposal."
+  },
+  {
+    "Word":"glut",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"供給過剰",
+    "ExampleSentence":"This issue created a serious glut."
+  },
+  {
+    "Word":"gossamer",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ごく薄い",
+    "ExampleSentence":"The report used several gossamer descriptions."
+  },
+  {
+    "Word":"grandiose",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"大げさな",
+    "ExampleSentence":"They announced a grandiose expansion plan."
+  },
+  {
+    "Word":"gratuitous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不必要な",
+    "ExampleSentence":"The film contained gratuitous violence."
+  },
+  {
+    "Word":"gregarious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"社交的な",
+    "ExampleSentence":"She delivered an gregarious speech."
+  },
+  {
+    "Word":"grisly",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"恐ろしい",
+    "ExampleSentence":"She delivered an grisly speech."
+  },
+  {
+    "Word":"guffaw",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"爆笑",
+    "ExampleSentence":"That incident became a major guffaw."
+  },
+  {
+    "Word":"guile",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"狡猾さ",
+    "ExampleSentence":"He achieved his goals through guile."
+  },
+  {
+    "Word":"habitat",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"生息地",
+    "ExampleSentence":"The dispute led to widespread habitat."
+  },
+  {
+    "Word":"hackles",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"首毛",
+    "ExampleSentence":"The dispute led to widespread hackles."
+  },
+  {
+    "Word":"hackneyed",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"陳腐な",
+    "ExampleSentence":"She delivered an hackneyed speech."
+  },
+  {
+    "Word":"halcyon",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"穏やかな",
+    "ExampleSentence":"The article mentioned a halcyon case."
+  },
+  {
+    "Word":"hallow",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"神聖化する",
+    "ExampleSentence":"The team decided to hallow the decision."
+  },
+  {
+    "Word":"haphazard",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無計画な",
+    "ExampleSentence":"Books lay in a haphazard pile on the floor."
+  },
+  {
+    "Word":"haphazardly",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"無計画に",
+    "ExampleSentence":"It was described as haphazardly."
+  },
+  {
+    "Word":"harangue",
+    "PartOfSpeech":"n\/v",
+    "JapaneseMeaning":"熱弁（する）",
+    "ExampleSentence":"She delivered a harangue against corruption."
+  },
+  {
+    "Word":"hardscrabble",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"困難な",
+    "ExampleSentence":"The article mentioned a hardscrabble case."
+  },
+  {
+    "Word":"harrowing",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悲惨な",
+    "ExampleSentence":"She delivered an harrowing speech."
+  },
+  {
+    "Word":"haughty",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"傲慢な",
+    "ExampleSentence":"His haughty tone alienated colleagues."
+  },
+  {
+    "Word":"hedge",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"回避する",
+    "ExampleSentence":"The team decided to hedge the decision."
+  },
+  {
+    "Word":"herald",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"先触れする",
+    "ExampleSentence":"The team decided to herald the decision."
+  },
+  {
+    "Word":"heresy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"異端",
+    "ExampleSentence":"That incident became a major heresy."
+  },
+  {
+    "Word":"heterodox",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"異端の",
+    "ExampleSentence":"The article mentioned a heterodox case."
+  },
+  {
+    "Word":"heuristic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"発見的な",
+    "ExampleSentence":"The article mentioned a heuristic case."
+  },
+  {
+    "Word":"hiatus",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"中断",
+    "ExampleSentence":"That incident became a major hiatus."
+  },
+  {
+    "Word":"histrionic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"芝居がかった",
+    "ExampleSentence":"The article mentioned a histrionic case."
+  },
+  {
+    "Word":"hitherto",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"これまで",
+    "ExampleSentence":"He responded hitherto to the offer."
+  },
+  {
+    "Word":"hoist",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"持ち上げる",
+    "ExampleSentence":"The team decided to hoist the decision."
+  },
+  {
+    "Word":"holistic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"全体的な",
+    "ExampleSentence":"The article mentioned a holistic case."
+  },
+  {
+    "Word":"homespun",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"素朴な",
+    "ExampleSentence":"The article mentioned a homespun case."
+  },
+  {
+    "Word":"hoodwink",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"だます",
+    "ExampleSentence":"The team decided to hoodwink the decision."
+  },
+  {
+    "Word":"horrendous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"恐ろしい",
+    "ExampleSentence":"The article mentioned a horrendous case."
+  },
+  {
+    "Word":"hubris",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"傲慢",
+    "ExampleSentence":"The dispute led to widespread hubris."
+  },
+  {
+    "Word":"hypothesis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"仮説",
+    "ExampleSentence":"The dispute led to widespread hypothesis."
+  },
+  {
+    "Word":"iconic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"象徴的な",
+    "ExampleSentence":"The article mentioned a iconic case."
+  },
+  {
+    "Word":"idiosyncrasy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"特異性",
+    "ExampleSentence":"The dispute led to widespread idiosyncrasy."
+  },
+  {
+    "Word":"idiosyncratic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"特異な",
+    "ExampleSentence":"Her idiosyncratic style is instantly recognizable."
+  },
+  {
+    "Word":"ignoble",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"卑劣な",
+    "ExampleSentence":"She delivered an ignoble speech."
+  },
+  {
+    "Word":"ignominious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不名誉な",
+    "ExampleSentence":"The team suffered an ignominious defeat."
+  },
+  {
+    "Word":"ilk",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"種類",
+    "ExampleSentence":"The dispute led to widespread ilk."
+  },
+  {
+    "Word":"illicit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不法の",
+    "ExampleSentence":"She delivered an illicit speech."
+  },
+  {
+    "Word":"imbibe",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"吸収する",
+    "ExampleSentence":"The team decided to imbibe the decision."
+  },
+  {
+    "Word":"imbue",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"染み込ませる",
+    "ExampleSentence":"The CEO decided to imbue the plan."
+  },
+  {
+    "Word":"imminent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"差し迫った",
+    "ExampleSentence":"The article mentioned a imminent case."
+  },
+  {
+    "Word":"immolate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"犠牲にする",
+    "ExampleSentence":"The team decided to immolate the decision."
+  },
+  {
+    "Word":"immovable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"動かせない",
+    "ExampleSentence":"The article mentioned a immovable case."
+  },
+  {
+    "Word":"immutable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不変の",
+    "ExampleSentence":"She delivered an immutable speech."
+  },
+  {
+    "Word":"impasse",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"行き詰まり",
+    "ExampleSentence":"The dispute led to widespread impasse."
+  },
+  {
+    "Word":"impassioned",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"激情的な",
+    "ExampleSentence":"She delivered an impassioned speech."
+  },
+  {
+    "Word":"impassive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無表情の",
+    "ExampleSentence":"The article mentioned a impassive case."
+  },
+  {
+    "Word":"impecunious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無一文の",
+    "ExampleSentence":"She delivered an impecunious speech."
+  },
+  {
+    "Word":"imperil",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"危険にさらす",
+    "ExampleSentence":"The team decided to imperil the decision."
+  },
+  {
+    "Word":"impervious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"影響を受けない",
+    "ExampleSentence":"She delivered an impervious speech."
+  },
+  {
+    "Word":"impetus",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"推進力",
+    "ExampleSentence":"The dispute led to widespread impetus."
+  },
+  {
+    "Word":"implacable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"執念深い",
+    "ExampleSentence":"He remained an implacable opponent."
+  },
+  {
+    "Word":"implicate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"関与させる",
+    "ExampleSentence":"The team decided to implicate the decision."
+  },
+  {
+    "Word":"imponderable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"計り知れない",
+    "ExampleSentence":"The article mentioned a imponderable case."
+  },
+  {
+    "Word":"imprecate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"呪う",
+    "ExampleSentence":"The team decided to imprecate the decision."
+  },
+  {
+    "Word":"impromptu",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"即興の",
+    "ExampleSentence":"The report contained several impromptu remarks."
+  },
+  {
+    "Word":"impudent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"厚かましい",
+    "ExampleSentence":"The report contained several impudent remarks."
+  },
+  {
+    "Word":"impugn",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"疑問視する",
+    "ExampleSentence":"They impugned his integrity."
+  },
+  {
+    "Word":"impunity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"免責",
+    "ExampleSentence":"The dispute led to widespread impunity."
+  },
+  {
+    "Word":"inadvertent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不注意の",
+    "ExampleSentence":"An inadvertent error caused the outage."
+  },
+  {
+    "Word":"inane",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ばかげた",
+    "ExampleSentence":"The conversation was full of inane jokes."
+  },
+  {
+    "Word":"inauspicious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不吉な",
+    "ExampleSentence":"The article mentioned a inauspicious case."
+  },
+  {
+    "Word":"incendiary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"扇動的な",
+    "ExampleSentence":"The article mentioned a incendiary case."
+  },
+  {
+    "Word":"inchoate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"未発達の",
+    "ExampleSentence":"The report contained several inchoate remarks."
+  },
+  {
+    "Word":"incipience",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"初期段階",
+    "ExampleSentence":"The dispute led to widespread incipience."
+  },
+  {
+    "Word":"incipient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"初期の",
+    "ExampleSentence":"The incipient stages of the project look promising."
+  },
+  {
+    "Word":"incongruity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"不一致",
+    "ExampleSentence":"The dispute led to widespread incongruity."
+  },
+  {
+    "Word":"incorporate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"組み入れる",
+    "ExampleSentence":"The team decided to incorporate the decision."
+  },
+  {
+    "Word":"inculpate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"罪を負わせる",
+    "ExampleSentence":"The team decided to inculpate the decision."
+  },
+  {
+    "Word":"indefatigable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不屈の",
+    "ExampleSentence":"The report contained several indefatigable remarks."
+  },
+  {
+    "Word":"indefensible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"弁護できない",
+    "ExampleSentence":"The article mentioned a indefensible case."
+  },
+  {
+    "Word":"indelicate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"失礼な",
+    "ExampleSentence":"The article mentioned a indelicate case."
+  },
+  {
+    "Word":"indigenous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"固有の",
+    "ExampleSentence":"The article mentioned a indigenous case."
+  },
+  {
+    "Word":"indolent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"怠惰な",
+    "ExampleSentence":"The report contained several indolent remarks."
+  },
+  {
+    "Word":"indomitable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不屈の",
+    "ExampleSentence":"Her indomitable spirit inspired us."
+  },
+  {
+    "Word":"ineffable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"言い表せない",
+    "ExampleSentence":"The view was of ineffable beauty."
+  },
+  {
+    "Word":"inefficacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"効果のない",
+    "ExampleSentence":"The report contained several inefficacious remarks."
+  },
+  {
+    "Word":"ineluctable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"避けられない",
+    "ExampleSentence":"The article mentioned a ineluctable case."
+  },
+  {
+    "Word":"ineptitude",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"無能",
+    "ExampleSentence":"The dispute led to widespread ineptitude."
+  },
+  {
+    "Word":"inexhaustible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"尽きない",
+    "ExampleSentence":"The article mentioned a inexhaustible case."
+  },
+  {
+    "Word":"inexorable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"容赦ない",
+    "ExampleSentence":"Population aging is an inexorable trend."
+  },
+  {
+    "Word":"infallible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"絶対に誤らない",
+    "ExampleSentence":"The report contained several infallible remarks."
+  },
+  {
+    "Word":"inflection",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"抑揚",
+    "ExampleSentence":"The dispute led to widespread inflection."
+  },
+  {
+    "Word":"infringe",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"侵害する",
+    "ExampleSentence":"The team decided to infringe the decision."
+  },
+  {
+    "Word":"ingenuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"純真な",
+    "ExampleSentence":"His ingenuous questions charmed the panel."
+  },
+  {
+    "Word":"ingest",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"摂取する",
+    "ExampleSentence":"The team decided to ingest the decision."
+  },
+  {
+    "Word":"inherent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"固有の",
+    "ExampleSentence":"The article mentioned a inherent case."
+  },
+  {
+    "Word":"inimical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"有害な",
+    "ExampleSentence":"Pollution is inimical to marine life."
+  },
+  {
+    "Word":"innuendo",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"当てこすり",
+    "ExampleSentence":"The dispute led to widespread innuendo."
+  },
+  {
+    "Word":"inordinate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"過度の",
+    "ExampleSentence":"The article mentioned a inordinate case."
+  },
+  {
+    "Word":"inquisitive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"好奇心旺盛な",
+    "ExampleSentence":"The article mentioned a inquisitive case."
+  },
+  {
+    "Word":"inscrutable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不可解な",
+    "ExampleSentence":"The article mentioned a inscrutable case."
+  },
+  {
+    "Word":"insidious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"陰険な",
+    "ExampleSentence":"The disease has an insidious onset."
+  },
+  {
+    "Word":"insinuate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ほのめかす",
+    "ExampleSentence":"The team decided to insinuate the decision."
+  },
+  {
+    "Word":"insipid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"味気ない",
+    "ExampleSentence":"The lecture was insipid and dull."
+  },
+  {
+    "Word":"insouciant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無頓着な",
+    "ExampleSentence":"The article mentioned a insouciant case."
+  },
+  {
+    "Word":"instill",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"教え込む",
+    "ExampleSentence":"The team decided to instill the decision."
+  },
+  {
+    "Word":"insular",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"島国根性の",
+    "ExampleSentence":"The report contained several insular remarks."
+  },
+  {
+    "Word":"insurrection",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"反乱",
+    "ExampleSentence":"The dispute led to widespread insurrection."
+  },
+  {
+    "Word":"integral",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不可欠な",
+    "ExampleSentence":"The article mentioned a integral case."
+  },
+  {
+    "Word":"intercede",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"仲裁する",
+    "ExampleSentence":"The team decided to intercede the decision."
+  },
+  {
+    "Word":"intermittent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"断続的な",
+    "ExampleSentence":"The article mentioned a intermittent case."
+  },
+  {
+    "Word":"interpose",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"差し挟む",
+    "ExampleSentence":"The team decided to interpose the decision."
+  },
+  {
+    "Word":"interrogate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"尋問する",
+    "ExampleSentence":"The team decided to interrogate the decision."
+  },
+  {
+    "Word":"intractability",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"手に負えなさ",
+    "ExampleSentence":"The dispute led to widespread intractability."
+  },
+  {
+    "Word":"intrepid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"恐れを知らない",
+    "ExampleSentence":"Intrepid explorers ventured into the jungle."
+  },
+  {
+    "Word":"intrigue",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"陰謀",
+    "ExampleSentence":"The dispute led to widespread intrigue."
+  },
+  {
+    "Word":"introspection",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"内省",
+    "ExampleSentence":"The dispute led to widespread introspection."
+  },
+  {
+    "Word":"inundation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"氾濫",
+    "ExampleSentence":"The dispute led to widespread inundation."
+  },
+  {
+    "Word":"invalid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無効の",
+    "ExampleSentence":"The article mentioned a invalid case."
+  },
+  {
+    "Word":"invective",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"罵倒",
+    "ExampleSentence":"Online forums overflow with invective."
+  },
+  {
+    "Word":"inveigh",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"激しく非難する",
+    "ExampleSentence":"The team decided to inveigh the decision."
+  },
+  {
+    "Word":"inverse",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"逆の",
+    "ExampleSentence":"The article mentioned a inverse case."
+  },
+  {
+    "Word":"invert",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"逆にする",
+    "ExampleSentence":"The team decided to invert the decision."
+  },
+  {
+    "Word":"invigorate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"活気づける",
+    "ExampleSentence":"The team decided to invigorate the decision."
+  },
+  {
+    "Word":"inviolable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"侵すことのできない",
+    "ExampleSentence":"The article mentioned a inviolable case."
+  },
+  {
+    "Word":"irascible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"短気な",
+    "ExampleSentence":"The irascible chef yelled at his staff."
+  },
+  {
+    "Word":"irate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"怒った",
+    "ExampleSentence":"The article mentioned a irate case."
+  },
+  {
+    "Word":"iridescent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"虹色の",
+    "ExampleSentence":"The article mentioned a iridescent case."
+  },
+  {
+    "Word":"ironclad",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"厳重な",
+    "ExampleSentence":"The article mentioned a ironclad case."
+  },
+  {
+    "Word":"irrefutable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"論破できない",
+    "ExampleSentence":"The report contained several irrefutable remarks."
+  },
+  {
+    "Word":"itinerary",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"旅程",
+    "ExampleSentence":"The dispute led to widespread itinerary."
+  },
+  {
+    "Word":"jaded",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"飽き飽きした",
+    "ExampleSentence":"The article mentioned a jaded case."
+  },
+  {
+    "Word":"jeopardize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"危険にさらす",
+    "ExampleSentence":"The team decided to jeopardize the decision."
+  },
+  {
+    "Word":"jest",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"冗談",
+    "ExampleSentence":"The dispute led to widespread jest."
+  },
+  {
+    "Word":"jocular",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"滑稽な",
+    "ExampleSentence":"The article mentioned a jocular case."
+  },
+  {
+    "Word":"jostle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"押し合う",
+    "ExampleSentence":"The team decided to jostle the decision."
+  },
+  {
+    "Word":"jovial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"陽気な",
+    "ExampleSentence":"The article mentioned a jovial case."
+  },
+  {
+    "Word":"jubilant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"歓喜に満ちた",
+    "ExampleSentence":"The article mentioned a jubilant case."
+  },
+  {
+    "Word":"judicious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"思慮深い",
+    "ExampleSentence":"The report contained several judicious remarks."
+  },
+  {
+    "Word":"judiciously",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"思慮深く",
+    "ExampleSentence":"It was described as judiciously."
+  },
+  {
+    "Word":"juxtapose",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"並置する",
+    "ExampleSentence":"The CEO decided to juxtapose the policy."
+  },
+  {
+    "Word":"juxtaposition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"並列",
+    "ExampleSentence":"The dispute led to widespread juxtaposition."
+  },
+  {
+    "Word":"keenly",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"鋭く",
+    "ExampleSentence":"It was described as keenly."
+  },
+  {
+    "Word":"ken",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"理解",
+    "ExampleSentence":"The dispute led to widespread ken."
+  },
+  {
+    "Word":"kudos",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"称賛",
+    "ExampleSentence":"The dispute led to widespread kudos."
+  },
+  {
+    "Word":"labyrinth",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"迷宮",
+    "ExampleSentence":"The dispute led to widespread labyrinth."
+  },
+  {
+    "Word":"lachrymose",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"涙もろい",
+    "ExampleSentence":"The article mentioned a lachrymose case."
+  },
+  {
+    "Word":"lackluster",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"精彩を欠く",
+    "ExampleSentence":"The article mentioned a lackluster case."
+  },
+  {
+    "Word":"laconic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"簡潔な",
+    "ExampleSentence":"His laconic reply ended the discussion."
+  },
+  {
+    "Word":"lacuna",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"欠落",
+    "ExampleSentence":"This issue became a public lacuna."
+  },
+  {
+    "Word":"laity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"俗人",
+    "ExampleSentence":"The dispute led to widespread laity."
+  },
+  {
+    "Word":"lampoon",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"風刺する",
+    "ExampleSentence":"The CEO decided to lampoon the policy."
+  },
+  {
+    "Word":"landmark",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"画期的な出来事",
+    "ExampleSentence":"The dispute led to widespread landmark."
+  },
+  {
+    "Word":"languid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"だるい",
+    "ExampleSentence":"She moved with languid grace."
+  },
+  {
+    "Word":"languish",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"衰える",
+    "ExampleSentence":"The CEO decided to languish the policy."
+  },
+  {
+    "Word":"larceny",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"盗み",
+    "ExampleSentence":"The dispute led to widespread larceny."
+  },
+  {
+    "Word":"lascivious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"みだらな",
+    "ExampleSentence":"The article mentioned a lascivious case."
+  },
+  {
+    "Word":"latent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"潜在的な",
+    "ExampleSentence":"The virus can remain latent for years."
+  },
+  {
+    "Word":"latter",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"後者の",
+    "ExampleSentence":"The article mentioned a latter case."
+  },
+  {
+    "Word":"laud",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"称賛する",
+    "ExampleSentence":"The CEO decided to laud the policy."
+  },
+  {
+    "Word":"laudable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"賞賛すべき",
+    "ExampleSentence":"Their efforts toward sustainability are laudable."
+  },
+  {
+    "Word":"laurel",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"栄誉",
+    "ExampleSentence":"The dispute led to widespread laurel."
+  },
+  {
+    "Word":"lavish",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"豪勢な",
+    "ExampleSentence":"The article mentioned a lavish case."
+  },
+  {
+    "Word":"leery",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"用心深い",
+    "ExampleSentence":"The article mentioned a leery case."
+  },
+  {
+    "Word":"legacy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"遺産",
+    "ExampleSentence":"The dispute led to widespread legacy."
+  },
+  {
+    "Word":"legerdemain",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"手品",
+    "ExampleSentence":"The dispute led to widespread legerdemain."
+  },
+  {
+    "Word":"legible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"読みやすい",
+    "ExampleSentence":"The report contained several legible remarks."
+  },
+  {
+    "Word":"lenient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"寛大な",
+    "ExampleSentence":"The article mentioned a lenient case."
+  },
+  {
+    "Word":"lethargic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無気力な",
+    "ExampleSentence":"I felt lethargic after the meal."
+  },
+  {
+    "Word":"lethargy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"倦怠",
+    "ExampleSentence":"The dispute led to widespread lethargy."
+  },
+  {
+    "Word":"levity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"軽薄",
+    "ExampleSentence":"This issue became a public levity."
+  },
+  {
+    "Word":"levy",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"課税する",
+    "ExampleSentence":"The team decided to levy the decision."
+  },
+  {
+    "Word":"lexical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"語彙の",
+    "ExampleSentence":"The article mentioned a lexical case."
+  },
+  {
+    "Word":"libel",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"名誉毀損",
+    "ExampleSentence":"The dispute led to widespread libel."
+  },
+  {
+    "Word":"liberate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"解放する",
+    "ExampleSentence":"The team decided to liberate the decision."
+  },
+  {
+    "Word":"licentious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"節操のない",
+    "ExampleSentence":"The article mentioned a licentious case."
+  },
+  {
+    "Word":"limber",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"柔軟な",
+    "ExampleSentence":"The article mentioned a limber case."
+  },
+  {
+    "Word":"limelight",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"脚光",
+    "ExampleSentence":"The dispute led to widespread limelight."
+  },
+  {
+    "Word":"limpid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"透明な",
+    "ExampleSentence":"The report contained several limpid remarks."
+  },
+  {
+    "Word":"linear",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"直線の",
+    "ExampleSentence":"The article mentioned a linear case."
+  },
+  {
+    "Word":"lionize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"称賛する",
+    "ExampleSentence":"The team decided to lionize the decision."
+  },
+  {
+    "Word":"litany",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"長い説明",
+    "ExampleSentence":"The dispute led to widespread litany."
+  },
+  {
+    "Word":"lithe",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"しなやかな",
+    "ExampleSentence":"The dancer had a lithe figure."
+  },
+  {
+    "Word":"lithely",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"しなやかに",
+    "ExampleSentence":"It was described as lithely."
+  },
+  {
+    "Word":"litigious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"訴訟好きな",
+    "ExampleSentence":"The report contained several litigious remarks."
+  },
+  {
+    "Word":"lofty",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"高尚な",
+    "ExampleSentence":"The article mentioned a lofty case."
+  },
+  {
+    "Word":"logistics",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"兵站",
+    "ExampleSentence":"The dispute led to widespread logistics."
+  },
+  {
+    "Word":"loquacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"おしゃべりな",
+    "ExampleSentence":"The report contained several loquacious remarks."
+  },
+  {
+    "Word":"lore",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"伝承",
+    "ExampleSentence":"The dispute led to widespread lore."
+  },
+  {
+    "Word":"lucid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"明快な",
+    "ExampleSentence":"The article mentioned a lucid case."
+  },
+  {
+    "Word":"lucrative",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"もうかる",
+    "ExampleSentence":"The article mentioned a lucrative case."
+  },
+  {
+    "Word":"ludicrous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ばかげた",
+    "ExampleSentence":"The article mentioned a ludicrous case."
+  },
+  {
+    "Word":"lugubrious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悲しげな",
+    "ExampleSentence":"The report contained several lugubrious remarks."
+  },
+  {
+    "Word":"luminous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"光り輝く",
+    "ExampleSentence":"The article mentioned a luminous case."
+  },
+  {
+    "Word":"lurid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ぞっとする",
+    "ExampleSentence":"The article mentioned a lurid case."
+  },
+  {
+    "Word":"macabre",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不気味な",
+    "ExampleSentence":"The report contained several macabre remarks."
+  },
+  {
+    "Word":"magnanimity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"寛容さ",
+    "ExampleSentence":"The dispute led to widespread magnanimity."
+  },
+  {
+    "Word":"magnanimous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"寛大な",
+    "ExampleSentence":"He was magnanimous in victory."
+  },
+  {
+    "Word":"magnate",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大物",
+    "ExampleSentence":"This issue became a public magnate."
+  },
+  {
+    "Word":"maladroit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ぎこちない",
+    "ExampleSentence":"The article mentioned a maladroit case."
+  },
+  {
+    "Word":"malefactor",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"犯罪者",
+    "ExampleSentence":"The dispute led to widespread malefactor."
+  },
+  {
+    "Word":"malevolent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悪意のある",
+    "ExampleSentence":"A malevolent glare chilled the room."
+  },
+  {
+    "Word":"malfeasance",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"不正行為",
+    "ExampleSentence":"This issue became a public malfeasance."
+  },
+  {
+    "Word":"malleable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"柔軟な",
+    "ExampleSentence":"Young minds are malleable."
+  },
+  {
+    "Word":"malodorous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悪臭の",
+    "ExampleSentence":"The report contained several malodorous remarks."
+  },
+  {
+    "Word":"manacle",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"手錠",
+    "ExampleSentence":"The dispute led to widespread manacle."
+  },
+  {
+    "Word":"mandate",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"権限",
+    "ExampleSentence":"This issue became a public mandate."
+  },
+  {
+    "Word":"manifesto",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"声明",
+    "ExampleSentence":"The dispute led to widespread manifesto."
+  },
+  {
+    "Word":"manumit",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"解放する",
+    "ExampleSentence":"The team decided to manumit the decision."
+  },
+  {
+    "Word":"mar",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"損なう",
+    "ExampleSentence":"The team decided to mar the decision."
+  },
+  {
+    "Word":"martial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"軍事の",
+    "ExampleSentence":"The article mentioned a martial case."
+  },
+  {
+    "Word":"martinet",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"厳格な人",
+    "ExampleSentence":"This issue became a public martinet."
+  },
+  {
+    "Word":"masquerade",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"仮装舞踏会",
+    "ExampleSentence":"The dispute led to widespread masquerade."
+  },
+  {
+    "Word":"maudlin",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"感傷的な",
+    "ExampleSentence":"The report contained several maudlin remarks."
+  },
+  {
+    "Word":"maxim",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"格言",
+    "ExampleSentence":"The dispute led to widespread maxim."
+  },
+  {
+    "Word":"meager",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"貧弱な",
+    "ExampleSentence":"The article mentioned a meager case."
+  },
+  {
+    "Word":"mediate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"仲裁する",
+    "ExampleSentence":"The team decided to mediate the decision."
+  },
+  {
+    "Word":"meek",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"控えめな",
+    "ExampleSentence":"The article mentioned a meek case."
+  },
+  {
+    "Word":"mellifluous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"美しい音色の",
+    "ExampleSentence":"The report contained several mellifluous remarks."
+  },
+  {
+    "Word":"melodious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"美しい音色の",
+    "ExampleSentence":"The article mentioned a melodious case."
+  },
+  {
+    "Word":"memorable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"記憶に残る",
+    "ExampleSentence":"The article mentioned a memorable case."
+  },
+  {
+    "Word":"mendacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"虚偽の",
+    "ExampleSentence":"The article was based on mendacious claims."
+  },
+  {
+    "Word":"mendacity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"虚偽",
+    "ExampleSentence":"The dispute led to widespread mendacity."
+  },
+  {
+    "Word":"mendicant",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"乞食",
+    "ExampleSentence":"This issue became a public mendicant."
+  },
+  {
+    "Word":"mercantile",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"商業の",
+    "ExampleSentence":"The article mentioned a mercantile case."
+  },
+  {
+    "Word":"mercenary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"金銭目的の",
+    "ExampleSentence":"The report contained several mercenary remarks."
+  },
+  {
+    "Word":"mercurial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"変わりやすい",
+    "ExampleSentence":"His mercurial moods puzzled friends."
+  },
+  {
+    "Word":"merit",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"功績",
+    "ExampleSentence":"The dispute led to widespread merit."
+  },
+  {
+    "Word":"meticulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"綿密な",
+    "ExampleSentence":"She kept meticulous records."
+  },
+  {
+    "Word":"mettle",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"気概",
+    "ExampleSentence":"The dispute led to widespread mettle."
+  },
+  {
+    "Word":"miasma",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"悪臭",
+    "ExampleSentence":"The dispute led to widespread miasma."
+  },
+  {
+    "Word":"microbe",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"微生物",
+    "ExampleSentence":"The dispute led to widespread microbe."
+  },
+  {
+    "Word":"milestone",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"画期的事件",
+    "ExampleSentence":"The dispute led to widespread milestone."
+  },
+  {
+    "Word":"milieu",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"社会的環境",
+    "ExampleSentence":"The dispute led to widespread milieu."
+  },
+  {
+    "Word":"minatory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"脅迫的な",
+    "ExampleSentence":"The article mentioned a minatory case."
+  },
+  {
+    "Word":"minuscule",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"極小の",
+    "ExampleSentence":"The article mentioned a minuscule case."
+  },
+  {
+    "Word":"miraculous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"驚くべき",
+    "ExampleSentence":"The article mentioned a miraculous case."
+  },
+  {
+    "Word":"mire",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"泥沼",
+    "ExampleSentence":"The dispute led to widespread mire."
+  },
+  {
+    "Word":"misanthrope",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"人間嫌いの人",
+    "ExampleSentence":"This issue became a public misanthrope."
+  },
+  {
+    "Word":"miserly",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"けち臭い",
+    "ExampleSentence":"The article mentioned a miserly case."
+  },
+  {
+    "Word":"misgive",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"危惧させる",
+    "ExampleSentence":"The team decided to misgive the decision."
+  },
+  {
+    "Word":"misnomer",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"誤称",
+    "ExampleSentence":"The dispute led to widespread misnomer."
+  },
+  {
+    "Word":"mitigate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"緩和する",
+    "ExampleSentence":"We need measures to mitigate climate change."
+  },
+  {
+    "Word":"mnemonic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"記憶を助ける",
+    "ExampleSentence":"The report contained several mnemonic remarks."
+  },
+  {
+    "Word":"modest",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"謙虚な",
+    "ExampleSentence":"The article mentioned a modest case."
+  },
+  {
+    "Word":"modicum",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"少量",
+    "ExampleSentence":"This issue became a public modicum."
+  },
+  {
+    "Word":"mollify",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"和らげる",
+    "ExampleSentence":"The team decided to mollify the decision."
+  },
+  {
+    "Word":"monarchy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"君主制",
+    "ExampleSentence":"The dispute led to widespread monarchy."
+  },
+  {
+    "Word":"monetary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"貨幣の",
+    "ExampleSentence":"The article mentioned a monetary case."
+  },
+  {
+    "Word":"moniker",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"あだ名",
+    "ExampleSentence":"The dispute led to widespread moniker."
+  },
+  {
+    "Word":"monolithic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"一枚岩の",
+    "ExampleSentence":"The article mentioned a monolithic case."
+  },
+  {
+    "Word":"monotonous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"単調な",
+    "ExampleSentence":"The article mentioned a monotonous case."
+  },
+  {
+    "Word":"moratorium",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"一時停止",
+    "ExampleSentence":"The dispute led to widespread moratorium."
+  },
+  {
+    "Word":"moribund",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"停滞した",
+    "ExampleSentence":"The report contained several moribund remarks."
+  },
+  {
+    "Word":"morose",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不機嫌な",
+    "ExampleSentence":"The article mentioned a morose case."
+  },
+  {
+    "Word":"motley",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"雑多な",
+    "ExampleSentence":"The article mentioned a motley case."
+  },
+  {
+    "Word":"mull",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"熟考する",
+    "ExampleSentence":"The team decided to mull the decision."
+  },
+  {
+    "Word":"mundane",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"日常の",
+    "ExampleSentence":"The report contained several mundane remarks."
+  },
+  {
+    "Word":"munificent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気前の良い",
+    "ExampleSentence":"The article mentioned a munificent case."
+  },
+  {
+    "Word":"muster",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"集める",
+    "ExampleSentence":"The team decided to muster the decision."
+  },
+  {
+    "Word":"mutable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"変わりやすい",
+    "ExampleSentence":"Fashion is a mutable concept."
+  },
+  {
+    "Word":"muted",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"控えめな",
+    "ExampleSentence":"The article mentioned a muted case."
+  },
+  {
+    "Word":"myopic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"近視眼的な",
+    "ExampleSentence":"Cutting R&D is a myopic policy."
+  },
+  {
+    "Word":"myriad",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無数の",
+    "ExampleSentence":"The article mentioned a myriad case."
+  },
+  {
+    "Word":"nadir",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"どん底",
+    "ExampleSentence":"This issue became a public nadir."
+  },
+  {
+    "Word":"narrative",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"物語",
+    "ExampleSentence":"The dispute led to widespread narrative."
+  },
+  {
+    "Word":"nascent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"発生しつつある",
+    "ExampleSentence":"The report contained several nascent remarks."
+  },
+  {
+    "Word":"natty",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"こざっぱりした",
+    "ExampleSentence":"The article mentioned a natty case."
+  },
+  {
+    "Word":"naïveté",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"無邪気",
+    "ExampleSentence":"The dispute led to widespread naïveté."
+  },
+  {
+    "Word":"nebula",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"星雲",
+    "ExampleSentence":"The dispute led to widespread nebula."
+  },
+  {
+    "Word":"nebulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"漠然とした",
+    "ExampleSentence":"The report contained several nebulous remarks."
+  },
+  {
+    "Word":"necessitate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"必要とする",
+    "ExampleSentence":"The team decided to necessitate the decision."
+  },
+  {
+    "Word":"nefarious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"極悪な",
+    "ExampleSentence":"They uncovered a nefarious scheme."
+  },
+  {
+    "Word":"negate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"無効にする",
+    "ExampleSentence":"The team decided to negate the decision."
+  },
+  {
+    "Word":"negligible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ごくわずかな",
+    "ExampleSentence":"The article mentioned a negligible case."
+  },
+  {
+    "Word":"nemesis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"天敵",
+    "ExampleSentence":"The dispute led to widespread nemesis."
+  },
+  {
+    "Word":"neophyte",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"初心者",
+    "ExampleSentence":"This issue became a public neophyte."
+  },
+  {
+    "Word":"nepotism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"縁故主義",
+    "ExampleSentence":"The dispute led to widespread nepotism."
+  },
+  {
+    "Word":"nexus",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"つながり",
+    "ExampleSentence":"The dispute led to widespread nexus."
+  },
+  {
+    "Word":"niggardly",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"けちな",
+    "ExampleSentence":"The article mentioned a niggardly case."
+  },
+  {
+    "Word":"nimble",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"機敏な",
+    "ExampleSentence":"The article mentioned a nimble case."
+  },
+  {
+    "Word":"noisome",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"有害な",
+    "ExampleSentence":"The report contained several noisome remarks."
+  },
+  {
+    "Word":"nomenclature",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"命名法",
+    "ExampleSentence":"The dispute led to widespread nomenclature."
+  },
+  {
+    "Word":"nominal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"名目上の",
+    "ExampleSentence":"The article mentioned a nominal case."
+  },
+  {
+    "Word":"nonchalant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無頓着な",
+    "ExampleSentence":"The report contained several nonchalant remarks."
+  },
+  {
+    "Word":"nonchalantly",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"無関心に",
+    "ExampleSentence":"It was described as nonchalantly."
+  },
+  {
+    "Word":"nonentity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"取るに足らない人",
+    "ExampleSentence":"The dispute led to widespread nonentity."
+  },
+  {
+    "Word":"nonplussed",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"途方に暮れた",
+    "ExampleSentence":"The article mentioned a nonplussed case."
+  },
+  {
+    "Word":"notable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"注目すべき",
+    "ExampleSentence":"The article mentioned a notable case."
+  },
+  {
+    "Word":"novelty",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"斬新さ",
+    "ExampleSentence":"The dispute led to widespread novelty."
+  },
+  {
+    "Word":"nuance",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"微妙な違い",
+    "ExampleSentence":"The dispute led to widespread nuance."
+  },
+  {
+    "Word":"nurture",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"育成する",
+    "ExampleSentence":"The team decided to nurture the decision."
+  },
+  {
+    "Word":"obduracy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"頑固さ",
+    "ExampleSentence":"The dispute led to widespread obduracy."
+  },
+  {
+    "Word":"obdurate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"頑固な",
+    "ExampleSentence":"He remained obdurate despite criticism."
+  },
+  {
+    "Word":"obfuscate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"曖昧にする",
+    "ExampleSentence":"The CEO decided to obfuscate the policy."
+  },
+  {
+    "Word":"obfuscation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"曖昧化",
+    "ExampleSentence":"The dispute led to widespread obfuscation."
+  },
+  {
+    "Word":"oblique",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"斜めの",
+    "ExampleSentence":"The report contained several oblique remarks."
+  },
+  {
+    "Word":"obliterate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"完全に破壊する",
+    "ExampleSentence":"The team decided to obliterate the decision."
+  },
+  {
+    "Word":"oblivious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気づいていない",
+    "ExampleSentence":"The report contained several oblivious remarks."
+  },
+  {
+    "Word":"obsequious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"へつらう",
+    "ExampleSentence":"An obsequious waiter hovered nearby."
+  },
+  {
+    "Word":"obsequiousness",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"へつらい",
+    "ExampleSentence":"The dispute led to widespread obsequiousness."
+  },
+  {
+    "Word":"obstinate",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"頑固な",
+    "ExampleSentence":"The child was obstinate about bedtime."
+  },
+  {
+    "Word":"obtrusive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"目立ちすぎる",
+    "ExampleSentence":"The article mentioned a obtrusive case."
+  },
+  {
+    "Word":"obviate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"排除する",
+    "ExampleSentence":"The team decided to obviate the decision."
+  },
+  {
+    "Word":"octogenarian",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"80代の人",
+    "ExampleSentence":"The dispute led to widespread octogenarian."
+  },
+  {
+    "Word":"odious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"憎むべき",
+    "ExampleSentence":"The report contained several odious remarks."
+  },
+  {
+    "Word":"odyssey",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"長い冒険旅行",
+    "ExampleSentence":"The dispute led to widespread odyssey."
+  },
+  {
+    "Word":"officious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"おせっかいな",
+    "ExampleSentence":"The report contained several officious remarks."
+  },
+  {
+    "Word":"onerous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"重荷となる",
+    "ExampleSentence":"Tax paperwork can be onerous."
+  },
+  {
+    "Word":"opaque",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不透明な",
+    "ExampleSentence":"The report contained several opaque remarks."
+  },
+  {
+    "Word":"opprobrium",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"非難",
+    "ExampleSentence":"This issue became a public opprobrium."
+  },
+  {
+    "Word":"opulent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"豪華な",
+    "ExampleSentence":"They stayed in an opulent suite."
+  },
+  {
+    "Word":"orthodox",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"正統の",
+    "ExampleSentence":"The report contained several orthodox remarks."
+  },
+  {
+    "Word":"oscillate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"揺れ動く",
+    "ExampleSentence":"The CEO decided to oscillate the policy."
+  },
+  {
+    "Word":"ostensible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"表向きの",
+    "ExampleSentence":"The report contained several ostensible remarks."
+  },
+  {
+    "Word":"ostentatious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"これ見よがしの",
+    "ExampleSentence":"He drove an ostentatious sports car."
+  },
+  {
+    "Word":"overt",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"公然の",
+    "ExampleSentence":"The report contained several overt remarks."
+  },
+  {
+    "Word":"pacify",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"鎮める",
+    "ExampleSentence":"The CEO decided to pacify the policy."
+  },
+  {
+    "Word":"palliate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"一時的に和らげる",
+    "ExampleSentence":"Medicine can palliate symptoms but not cure."
+  },
+  {
+    "Word":"pallid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"青白い",
+    "ExampleSentence":"The report contained several pallid remarks."
+  },
+  {
+    "Word":"panacea",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"万能薬",
+    "ExampleSentence":"There is no panacea for economic woes."
+  },
+  {
+    "Word":"pandemonium",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"大混乱",
+    "ExampleSentence":"The dispute led to widespread pandemonium."
+  },
+  {
+    "Word":"panegyric",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"賛辞",
+    "ExampleSentence":"This issue became a public panegyric."
+  },
+  {
+    "Word":"paradigm",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"枠組み",
+    "ExampleSentence":"This issue became a public paradigm."
+  },
+  {
+    "Word":"paragon",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"模範",
+    "ExampleSentence":"She is a paragon of professionalism."
+  },
+  {
+    "Word":"paramount",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"最重要の",
+    "ExampleSentence":"The report contained several paramount remarks."
+  },
+  {
+    "Word":"pariah",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"のけ者",
+    "ExampleSentence":"This issue became a public pariah."
+  },
+  {
+    "Word":"parsimonious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"吝嗇な",
+    "ExampleSentence":"The CEO's parsimonious budget cut staff perks."
+  },
+  {
+    "Word":"partisan",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"党派的な",
+    "ExampleSentence":"The report contained several partisan remarks."
+  },
+  {
+    "Word":"paucity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"不足",
+    "ExampleSentence":"There is a paucity of data on the topic."
+  },
+  {
+    "Word":"peccadillo",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"軽い罪",
+    "ExampleSentence":"This issue became a public peccadillo."
+  },
+  {
+    "Word":"pedantic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"学識をひけらかす",
+    "ExampleSentence":"His pedantic remarks annoyed listeners."
+  },
+  {
+    "Word":"pedestrian",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"平凡な",
+    "ExampleSentence":"The report contained several pedestrian remarks."
+  },
+  {
+    "Word":"penchant",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"好み",
+    "ExampleSentence":"This issue became a public penchant."
+  },
+  {
+    "Word":"penitent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"後悔している",
+    "ExampleSentence":"The report contained several penitent remarks."
+  },
+  {
+    "Word":"pensive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"物思いに沈んだ",
+    "ExampleSentence":"The report contained several pensive remarks."
+  },
+  {
+    "Word":"perfidious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"背信の",
+    "ExampleSentence":"The report contained several perfidious remarks."
+  },
+  {
+    "Word":"perfunctory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"いいかげんな",
+    "ExampleSentence":"She gave a perfunctory nod."
+  },
+  {
+    "Word":"pernicious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"有害な",
+    "ExampleSentence":"Fake news has a pernicious effect on society."
+  },
+  {
+    "Word":"perspicacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"洞察力の鋭い",
+    "ExampleSentence":"A perspicacious analyst spotted the trend early."
+  },
+  {
+    "Word":"perspicuity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"明快さ",
+    "ExampleSentence":"This issue became a public perspicuity."
+  },
+  {
+    "Word":"pertinacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"粘り強い",
+    "ExampleSentence":"The report contained several pertinacious remarks."
+  },
+  {
+    "Word":"pervade",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"充満する",
+    "ExampleSentence":"The CEO decided to pervade the policy."
+  },
+  {
+    "Word":"petulance",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"短気",
+    "ExampleSentence":"The dispute led to widespread petulance."
+  },
+  {
+    "Word":"petulant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"短気な",
+    "ExampleSentence":"The manager became petulant under pressure."
+  },
+  {
+    "Word":"philanthropy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"慈善活動",
+    "ExampleSentence":"The dispute led to widespread philanthropy."
+  },
+  {
+    "Word":"phlegmatic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"冷静な",
+    "ExampleSentence":"The report contained several phlegmatic remarks."
+  },
+  {
+    "Word":"placate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"宥める",
+    "ExampleSentence":"He tried to placate the angry customer."
+  },
+  {
+    "Word":"placid",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"穏やかな",
+    "ExampleSentence":"The report contained several placid remarks."
+  },
+  {
+    "Word":"platitude",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"陳腐な言葉",
+    "ExampleSentence":"This issue became a public platitude."
+  },
+  {
+    "Word":"plausible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"もっともらしい",
+    "ExampleSentence":"The article mentioned a plausible case."
+  },
+  {
+    "Word":"plethora",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"過多",
+    "ExampleSentence":"This issue became a public plethora."
+  },
+  {
+    "Word":"poignant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"胸を刺す",
+    "ExampleSentence":"The report contained several poignant remarks."
+  },
+  {
+    "Word":"polarize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"分極化させる",
+    "ExampleSentence":"The CEO decided to polarize the policy."
+  },
+  {
+    "Word":"pragmatic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"実際的な",
+    "ExampleSentence":"She took a pragmatic approach to the problem."
+  },
+  {
+    "Word":"precarious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不安定な",
+    "ExampleSentence":"The report contained several precarious remarks."
+  },
+  {
+    "Word":"precipitate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"引き起こす",
+    "ExampleSentence":"The CEO decided to precipitate the policy."
+  },
+  {
+    "Word":"precocious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"早熟な",
+    "ExampleSentence":"The report contained several precocious remarks."
+  },
+  {
+    "Word":"predilection",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"偏愛",
+    "ExampleSentence":"This issue became a public predilection."
+  },
+  {
+    "Word":"prelude",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"前兆",
+    "ExampleSentence":"This issue became a public prelude."
+  },
+  {
+    "Word":"prescient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"先見の明のある",
+    "ExampleSentence":"The report contained several prescient remarks."
+  },
+  {
+    "Word":"presumptive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"推定上の",
+    "ExampleSentence":"The report contained several presumptive remarks."
+  },
+  {
+    "Word":"presumptuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"出しゃばりの",
+    "ExampleSentence":"It was presumptuous to assume victory."
+  },
+  {
+    "Word":"prodigious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"莫大な",
+    "ExampleSentence":"The project required a prodigious amount of work."
+  },
+  {
+    "Word":"prodigy",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"神童",
+    "ExampleSentence":"This issue became a public prodigy."
+  },
+  {
+    "Word":"prolific",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"多作の",
+    "ExampleSentence":"The report contained several prolific remarks."
+  },
+  {
+    "Word":"propensity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"傾向",
+    "ExampleSentence":"This issue became a public propensity."
+  },
+  {
+    "Word":"prosaic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"散文的な",
+    "ExampleSentence":"The report contained several prosaic remarks."
+  },
+  {
+    "Word":"protean",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"多様な",
+    "ExampleSentence":"The report contained several protean remarks."
+  },
+  {
+    "Word":"prudent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"慎重な",
+    "ExampleSentence":"The report contained several prudent remarks."
+  },
+  {
+    "Word":"pugnacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"闘争的な",
+    "ExampleSentence":"The report contained several pugnacious remarks."
+  },
+  {
+    "Word":"quandary",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"困惑",
+    "ExampleSentence":"This issue became a public quandary."
+  },
+  {
+    "Word":"quench",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"癒す",
+    "ExampleSentence":"The CEO decided to quench the policy."
+  },
+  {
+    "Word":"querulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不平を言う",
+    "ExampleSentence":"The report contained several querulous remarks."
+  },
+  {
+    "Word":"quiescent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"静止した",
+    "ExampleSentence":"The report contained several quiescent remarks."
+  },
+  {
+    "Word":"quintessential",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"典型的な",
+    "ExampleSentence":"The report contained several quintessential remarks."
+  },
+  {
+    "Word":"rancor",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"怨恨",
+    "ExampleSentence":"This issue became a public rancor."
+  },
+  {
+    "Word":"rapacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"強欲な",
+    "ExampleSentence":"The report contained several rapacious remarks."
+  },
+  {
+    "Word":"raucous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"やかましい",
+    "ExampleSentence":"The report contained several raucous remarks."
+  },
+  {
+    "Word":"rebut",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"反論する",
+    "ExampleSentence":"The CEO decided to rebut the policy."
+  },
+  {
+    "Word":"reclusive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"隠遁した",
+    "ExampleSentence":"The report contained several reclusive remarks."
+  },
+  {
+    "Word":"redolent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"香りのする",
+    "ExampleSentence":"The report contained several redolent remarks."
+  },
+  {
+    "Word":"refute",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"論破する",
+    "ExampleSentence":"The CEO decided to refute the policy."
+  },
+  {
+    "Word":"reiterate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"繰り返す",
+    "ExampleSentence":"The CEO decided to reiterate the policy."
+  },
+  {
+    "Word":"rejuvenate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"若返らせる",
+    "ExampleSentence":"The CEO decided to rejuvenate the policy."
+  },
+  {
+    "Word":"relegate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"格下げする",
+    "ExampleSentence":"The CEO decided to relegate the policy."
+  },
+  {
+    "Word":"remunerate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"報酬を与える",
+    "ExampleSentence":"The CEO decided to remunerate the policy."
+  },
+  {
+    "Word":"renounce",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"放棄する",
+    "ExampleSentence":"The CEO decided to renounce the policy."
+  },
+  {
+    "Word":"replete",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"満ちた",
+    "ExampleSentence":"The report contained several replete remarks."
+  },
+  {
+    "Word":"reproach",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"非難する",
+    "ExampleSentence":"The CEO decided to reproach the policy."
+  },
+  {
+    "Word":"reprove",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"たしなめる",
+    "ExampleSentence":"The CEO decided to reprove the policy."
+  },
+  {
+    "Word":"repudiate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"拒絶する",
+    "ExampleSentence":"The CEO decided to repudiate the policy."
+  },
+  {
+    "Word":"resilient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"回復力のある",
+    "ExampleSentence":"The report contained several resilient remarks."
+  },
+  {
+    "Word":"resonant",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"反響する",
+    "ExampleSentence":"The report contained several resonant remarks."
+  },
+  {
+    "Word":"respite",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"一時休止",
+    "ExampleSentence":"This issue became a public respite."
+  },
+  {
+    "Word":"resplendent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"輝かしい",
+    "ExampleSentence":"The report contained several resplendent remarks."
+  },
+  {
+    "Word":"restitution",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"弁済",
+    "ExampleSentence":"This issue became a public restitution."
+  },
+  {
+    "Word":"reticent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無口な",
+    "ExampleSentence":"The report contained several reticent remarks."
+  },
+  {
+    "Word":"revere",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"敬う",
+    "ExampleSentence":"The CEO decided to revere the policy."
+  },
+  {
+    "Word":"ribald",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"下品な",
+    "ExampleSentence":"The report contained several ribald remarks."
+  },
+  {
+    "Word":"robust",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"頑丈な",
+    "ExampleSentence":"The report contained several robust remarks."
+  },
+  {
+    "Word":"sagacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"賢明な",
+    "ExampleSentence":"The report contained several sagacious remarks."
+  },
+  {
+    "Word":"salient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"顕著な",
+    "ExampleSentence":"The report contained several salient remarks."
+  },
+  {
+    "Word":"sanguine",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"楽観的な",
+    "ExampleSentence":"The report contained several sanguine remarks."
+  },
+  {
+    "Word":"sardonic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"冷笑的な",
+    "ExampleSentence":"The report contained several sardonic remarks."
+  },
+  {
+    "Word":"satiate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"飽き飽きさせる",
+    "ExampleSentence":"The CEO decided to satiate the policy."
+  },
+  {
+    "Word":"scintillating",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"才気あふれる",
+    "ExampleSentence":"The report contained several scintillating remarks."
+  },
+  {
+    "Word":"scrupulous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"良心的な",
+    "ExampleSentence":"The report contained several scrupulous remarks."
+  },
+  {
+    "Word":"scrutinize",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"精査する",
+    "ExampleSentence":"The CEO decided to scrutinize the policy."
+  },
+  {
+    "Word":"sedition",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"扇動",
+    "ExampleSentence":"This issue became a public sedition."
+  },
+  {
+    "Word":"sentient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"感覚ある",
+    "ExampleSentence":"The report contained several sentient remarks."
+  },
+  {
+    "Word":"servile",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"奴隷のような",
+    "ExampleSentence":"The report contained several servile remarks."
+  },
+  {
+    "Word":"skittish",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"落ち着きのない",
+    "ExampleSentence":"The report contained several skittish remarks."
+  },
+  {
+    "Word":"slothful",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"怠惰な",
+    "ExampleSentence":"The report contained several slothful remarks."
+  },
+  {
+    "Word":"solicitous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気遣う",
+    "ExampleSentence":"The report contained several solicitous remarks."
+  },
+  {
+    "Word":"solvent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"支払能力のある",
+    "ExampleSentence":"The report contained several solvent remarks."
+  },
+  {
+    "Word":"somber",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"陰気な",
+    "ExampleSentence":"The report contained several somber remarks."
+  },
+  {
+    "Word":"sonorous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"朗々とした",
+    "ExampleSentence":"The report contained several sonorous remarks."
+  },
+  {
+    "Word":"soporific",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"眠気を誘う",
+    "ExampleSentence":"The report contained several soporific remarks."
+  },
+  {
+    "Word":"specious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"もっともらしい",
+    "ExampleSentence":"The report contained several specious remarks."
+  },
+  {
+    "Word":"sporadic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"散発的な",
+    "ExampleSentence":"The report contained several sporadic remarks."
+  },
+  {
+    "Word":"spurious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"偽の",
+    "ExampleSentence":"The report contained several spurious remarks."
+  },
+  {
+    "Word":"squander",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"浪費する",
+    "ExampleSentence":"The CEO decided to squander the policy."
+  },
+  {
+    "Word":"stagnate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"停滞する",
+    "ExampleSentence":"The CEO decided to stagnate the policy."
+  },
+  {
+    "Word":"static",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"静的な",
+    "ExampleSentence":"The report contained several static remarks."
+  },
+  {
+    "Word":"staunch",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"忠実な",
+    "ExampleSentence":"The report contained several staunch remarks."
+  },
+  {
+    "Word":"steadfast",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不動の",
+    "ExampleSentence":"The report contained several steadfast remarks."
+  },
+  {
+    "Word":"stoic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"平然とした",
+    "ExampleSentence":"The report contained several stoic remarks."
+  },
+  {
+    "Word":"stringent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"厳格な",
+    "ExampleSentence":"The report contained several stringent remarks."
+  },
+  {
+    "Word":"stupefy",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"茫然とさせる",
+    "ExampleSentence":"The CEO decided to stupefy the policy."
+  },
+  {
+    "Word":"subjugate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"征服する",
+    "ExampleSentence":"The CEO decided to subjugate the policy."
+  },
+  {
+    "Word":"sublime",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"壮大な",
+    "ExampleSentence":"The report contained several sublime remarks."
+  },
+  {
+    "Word":"subversive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"破壊的な",
+    "ExampleSentence":"The report contained several subversive remarks."
+  },
+  {
+    "Word":"succinct",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"簡潔な",
+    "ExampleSentence":"The report contained several succinct remarks."
+  },
+  {
+    "Word":"superficial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"表面的な",
+    "ExampleSentence":"The report contained several superficial remarks."
+  },
+  {
+    "Word":"superfluous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"余分な",
+    "ExampleSentence":"The report contained several superfluous remarks."
+  },
+  {
+    "Word":"surfeit",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"過度",
+    "ExampleSentence":"This issue became a public surfeit."
+  },
+  {
+    "Word":"surreptitious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"内密の",
+    "ExampleSentence":"The report contained several surreptitious remarks."
+  },
+  {
+    "Word":"sycophant",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ごますり",
+    "ExampleSentence":"This issue became a public sycophant."
+  },
+  {
+    "Word":"tacit",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"暗黙の",
+    "ExampleSentence":"The report contained several tacit remarks."
+  },
+  {
+    "Word":"taciturn",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無口な",
+    "ExampleSentence":"The report contained several taciturn remarks."
+  },
+  {
+    "Word":"tangible",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"触れられる",
+    "ExampleSentence":"The report contained several tangible remarks."
+  },
+  {
+    "Word":"tantamount",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"同等の",
+    "ExampleSentence":"The report contained several tantamount remarks."
+  },
+  {
+    "Word":"temerity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"厚かましさ",
+    "ExampleSentence":"This issue became a public temerity."
+  },
+  {
+    "Word":"tenacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"粘り強い",
+    "ExampleSentence":"The report contained several tenacious remarks."
+  },
+  {
+    "Word":"tenuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"薄弱な",
+    "ExampleSentence":"The report contained several tenuous remarks."
+  },
+  {
+    "Word":"tirade",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"長い非難",
+    "ExampleSentence":"This issue became a public tirade."
+  },
+  {
+    "Word":"torpor",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"無気力",
+    "ExampleSentence":"This issue became a public torpor."
+  },
+  {
+    "Word":"tractable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"扱いやすい",
+    "ExampleSentence":"The report contained several tractable remarks."
+  },
+  {
+    "Word":"transient",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"一時的な",
+    "ExampleSentence":"The report contained several transient remarks."
+  },
+  {
+    "Word":"transitory",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"はかない",
+    "ExampleSentence":"The report contained several transitory remarks."
+  },
+  {
+    "Word":"trepidation",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"恐怖",
+    "ExampleSentence":"This issue became a public trepidation."
+  },
+  {
+    "Word":"trite",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ありふれた",
+    "ExampleSentence":"The report contained several trite remarks."
+  },
+  {
+    "Word":"truculent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"攻撃的な",
+    "ExampleSentence":"The report contained several truculent remarks."
+  },
+  {
+    "Word":"ubiquitous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"至る所にある",
+    "ExampleSentence":"The report contained several ubiquitous remarks."
+  },
+  {
+    "Word":"unctuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"お世辞たらたらの",
+    "ExampleSentence":"The report contained several unctuous remarks."
+  },
+  {
+    "Word":"unfathomable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"計り知れない",
+    "ExampleSentence":"The report contained several unfathomable remarks."
+  },
+  {
+    "Word":"ungainly",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"不格好な",
+    "ExampleSentence":"The report contained several ungainly remarks."
+  },
+  {
+    "Word":"unkempt",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"だらしない",
+    "ExampleSentence":"The report contained several unkempt remarks."
+  },
+  {
+    "Word":"unprecedented",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"前例のない",
+    "ExampleSentence":"The report contained several unprecedented remarks."
+  },
+  {
+    "Word":"urbane",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"洗練された",
+    "ExampleSentence":"The report contained several urbane remarks."
+  },
+  {
+    "Word":"usurp",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"奪取する",
+    "ExampleSentence":"The CEO decided to usurp the policy."
+  },
+  {
+    "Word":"utilitarian",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"実用的な",
+    "ExampleSentence":"The report contained several utilitarian remarks."
+  },
+  {
+    "Word":"vacillate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"揺れる",
+    "ExampleSentence":"The CEO decided to vacillate the policy."
+  },
+  {
+    "Word":"vacuous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"空虚な",
+    "ExampleSentence":"The report contained several vacuous remarks."
+  },
+  {
+    "Word":"vagrant",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"放浪者",
+    "ExampleSentence":"This issue became a public vagrant."
+  },
+  {
+    "Word":"vehement",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"激しい",
+    "ExampleSentence":"The report contained several vehement remarks."
+  },
+  {
+    "Word":"venal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"買収されやすい",
+    "ExampleSentence":"The report contained several venal remarks."
+  },
+  {
+    "Word":"venerable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"尊敬すべき",
+    "ExampleSentence":"The report contained several venerable remarks."
+  },
+  {
+    "Word":"veracity",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"真実性",
+    "ExampleSentence":"This issue became a public veracity."
+  },
+  {
+    "Word":"verbose",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"冗長な",
+    "ExampleSentence":"The report contained several verbose remarks."
+  },
+  {
+    "Word":"vestige",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"痕跡",
+    "ExampleSentence":"This issue became a public vestige."
+  },
+  {
+    "Word":"viable",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"実行可能な",
+    "ExampleSentence":"The report contained several viable remarks."
+  },
+  {
+    "Word":"vindicate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"潔白を証明する",
+    "ExampleSentence":"The CEO decided to vindicate the policy."
+  },
+  {
+    "Word":"vindictive",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"執念深い",
+    "ExampleSentence":"The report contained several vindictive remarks."
+  },
+  {
+    "Word":"virulent",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悪性の",
+    "ExampleSentence":"The report contained several virulent remarks."
+  },
+  {
+    "Word":"viscous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"粘性の",
+    "ExampleSentence":"The report contained several viscous remarks."
+  },
+  {
+    "Word":"vitiate",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"損なう",
+    "ExampleSentence":"The CEO decided to vitiate the policy."
+  },
+  {
+    "Word":"vitriolic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"辛辣な",
+    "ExampleSentence":"The report contained several vitriolic remarks."
+  },
+  {
+    "Word":"vivacious",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"活発な",
+    "ExampleSentence":"The report contained several vivacious remarks."
+  },
+  {
+    "Word":"vociferous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"声高な",
+    "ExampleSentence":"The report contained several vociferous remarks."
+  },
+  {
+    "Word":"volatile",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"変わりやすい",
+    "ExampleSentence":"The report contained several volatile remarks."
+  },
+  {
+    "Word":"wane",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"衰える",
+    "ExampleSentence":"They decided to wane the plan."
+  },
+  {
+    "Word":"wangle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"うまく手に入れる",
+    "ExampleSentence":"They decided to wangle the plan."
+  },
+  {
+    "Word":"warble",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"さえずる",
+    "ExampleSentence":"They decided to warble the plan."
+  },
+  {
+    "Word":"wary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"用心深い",
+    "ExampleSentence":"The article cited a wary example."
+  },
+  {
+    "Word":"watershed",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"分水嶺",
+    "ExampleSentence":"The debate focused on the concept of 'watershed'."
+  },
+  {
+    "Word":"waylay",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"待ち伏せる",
+    "ExampleSentence":"They decided to waylay the plan."
+  },
+  {
+    "Word":"wean",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"離乳させる",
+    "ExampleSentence":"They decided to wean the plan."
+  },
+  {
+    "Word":"weary",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"疲れた",
+    "ExampleSentence":"The article cited a weary example."
+  },
+  {
+    "Word":"weathered",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"風化した",
+    "ExampleSentence":"The article cited a weathered example."
+  },
+  {
+    "Word":"welter",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"混乱",
+    "ExampleSentence":"The debate focused on the concept of 'welter'."
+  },
+  {
+    "Word":"wheedle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"甘言でだます",
+    "ExampleSentence":"They decided to wheedle the plan."
+  },
+  {
+    "Word":"wherewithal",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"必要な資金・手段",
+    "ExampleSentence":"The debate focused on the concept of 'wherewithal'."
+  },
+  {
+    "Word":"whim",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"気まぐれ",
+    "ExampleSentence":"The debate focused on the concept of 'whim'."
+  },
+  {
+    "Word":"whimsical",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"気まぐれな",
+    "ExampleSentence":"The article cited a whimsical example."
+  },
+  {
+    "Word":"whittle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"削る",
+    "ExampleSentence":"They decided to whittle the plan."
+  },
+  {
+    "Word":"wield",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"行使する",
+    "ExampleSentence":"They decided to wield the plan."
+  },
+  {
+    "Word":"wile",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"策略",
+    "ExampleSentence":"The debate focused on the concept of 'wile'."
+  },
+  {
+    "Word":"wily",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"狡猾な",
+    "ExampleSentence":"The article cited a wily example."
+  },
+  {
+    "Word":"wince",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"顔をしかめる",
+    "ExampleSentence":"They decided to wince the plan."
+  },
+  {
+    "Word":"winnow",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ふるい分ける",
+    "ExampleSentence":"They decided to winnow the plan."
+  },
+  {
+    "Word":"wistful",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"物思いにふけった",
+    "ExampleSentence":"The article cited a wistful example."
+  },
+  {
+    "Word":"wither",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"しおれる",
+    "ExampleSentence":"They decided to wither the plan."
+  },
+  {
+    "Word":"withstand",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"耐える",
+    "ExampleSentence":"They decided to withstand the plan."
+  },
+  {
+    "Word":"wizened",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"しなびた",
+    "ExampleSentence":"The article cited a wizened example."
+  },
+  {
+    "Word":"woe",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"悲哀",
+    "ExampleSentence":"The debate focused on the concept of 'woe'."
+  },
+  {
+    "Word":"woeful",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"悲惨な",
+    "ExampleSentence":"The article cited a woeful example."
+  },
+  {
+    "Word":"wont",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"慣習",
+    "ExampleSentence":"The debate focused on the concept of 'wont'."
+  },
+  {
+    "Word":"wraith",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"幽霊",
+    "ExampleSentence":"The debate focused on the concept of 'wraith'."
+  },
+  {
+    "Word":"wrangle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"口論する",
+    "ExampleSentence":"They decided to wrangle the plan."
+  },
+  {
+    "Word":"wrath",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"激怒",
+    "ExampleSentence":"The debate focused on the concept of 'wrath'."
+  },
+  {
+    "Word":"wreak",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"引き起こす",
+    "ExampleSentence":"They decided to wreak the plan."
+  },
+  {
+    "Word":"wrench",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"ねじる",
+    "ExampleSentence":"They decided to wrench the plan."
+  },
+  {
+    "Word":"wrest",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"もぎ取る",
+    "ExampleSentence":"They decided to wrest the plan."
+  },
+  {
+    "Word":"wretch",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"みじめな人",
+    "ExampleSentence":"The debate focused on the concept of 'wretch'."
+  },
+  {
+    "Word":"wriggle",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"身をよじる",
+    "ExampleSentence":"They decided to wriggle the plan."
+  },
+  {
+    "Word":"writhe",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"苦悶する",
+    "ExampleSentence":"They decided to writhe the plan."
+  },
+  {
+    "Word":"wry",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"皮肉な",
+    "ExampleSentence":"The article cited a wry example."
+  },
+  {
+    "Word":"wryly",
+    "PartOfSpeech":"adv",
+    "JapaneseMeaning":"皮肉に",
+    "ExampleSentence":"The debate focused on the concept of 'wryly'."
+  },
+  {
+    "Word":"wyvern",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ワイバーン（伝説の竜）",
+    "ExampleSentence":"The debate focused on the concept of 'wyvern'."
+  },
+  {
+    "Word":"xenial",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"客をもてなす",
+    "ExampleSentence":"The report used a xenial expression."
+  },
+  {
+    "Word":"xenogenesis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"異種発生",
+    "ExampleSentence":"The discussion focused on the term 'xenogenesis'."
+  },
+  {
+    "Word":"xenophile",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"外国好きの人",
+    "ExampleSentence":"The discussion focused on the term 'xenophile'."
+  },
+  {
+    "Word":"xenophobia",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"外国人嫌い",
+    "ExampleSentence":"The discussion focused on the term 'xenophobia'."
+  },
+  {
+    "Word":"xeric",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"乾燥環境の",
+    "ExampleSentence":"The report used a xeric expression."
+  },
+  {
+    "Word":"xerography",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ゼログラフィ複写",
+    "ExampleSentence":"The discussion focused on the term 'xerography'."
+  },
+  {
+    "Word":"xylem",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"木部",
+    "ExampleSentence":"The discussion focused on the term 'xylem'."
+  },
+  {
+    "Word":"xylophagous",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"木材を食べる",
+    "ExampleSentence":"The report used a xylophagous expression."
+  },
+  {
+    "Word":"xylophone",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"木琴",
+    "ExampleSentence":"The discussion focused on the term 'xylophone'."
+  },
+  {
+    "Word":"yammer",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"泣き叫ぶ",
+    "ExampleSentence":"They decided to yammer ahead."
+  },
+  {
+    "Word":"yawl",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ヨール帆船",
+    "ExampleSentence":"The discussion focused on the term 'yawl'."
+  },
+  {
+    "Word":"yearn",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"憧れる",
+    "ExampleSentence":"They decided to yearn ahead."
+  },
+  {
+    "Word":"yoke",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"束縛する",
+    "ExampleSentence":"They decided to yoke ahead."
+  },
+  {
+    "Word":"yonder",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"向こうの",
+    "ExampleSentence":"The report used a yonder expression."
+  },
+  {
+    "Word":"yore",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"昔",
+    "ExampleSentence":"The discussion focused on the term 'yore'."
+  },
+  {
+    "Word":"yowl",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"遠吠えする",
+    "ExampleSentence":"They decided to yowl ahead."
+  },
+  {
+    "Word":"ytterbium",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"イッテルビウム",
+    "ExampleSentence":"The discussion focused on the term 'ytterbium'."
+  },
+  {
+    "Word":"yuppie",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ヤッピー",
+    "ExampleSentence":"The discussion focused on the term 'yuppie'."
+  },
+  {
+    "Word":"zaftig",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"ふくよかな",
+    "ExampleSentence":"The report used a zaftig expression."
+  },
+  {
+    "Word":"zany",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"道化た",
+    "ExampleSentence":"The report used a zany expression."
+  },
+  {
+    "Word":"zap",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"素早く攻撃する",
+    "ExampleSentence":"They decided to zap ahead."
+  },
+  {
+    "Word":"zapper",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"テレビのリモコン",
+    "ExampleSentence":"The discussion focused on the term 'zapper'."
+  },
+  {
+    "Word":"zealot",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"熱狂者",
+    "ExampleSentence":"The discussion focused on the term 'zealot'."
+  },
+  {
+    "Word":"zealotry",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"狂信",
+    "ExampleSentence":"The discussion focused on the term 'zealotry'."
+  },
+  {
+    "Word":"zeitgeist",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"時代精神",
+    "ExampleSentence":"The discussion focused on the term 'zeitgeist'."
+  },
+  {
+    "Word":"zen",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"禅の",
+    "ExampleSentence":"The report used a zen expression."
+  },
+  {
+    "Word":"zenithal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"天頂の",
+    "ExampleSentence":"The report used a zenithal expression."
+  },
+  {
+    "Word":"zephyr",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"そよ風",
+    "ExampleSentence":"The discussion focused on the term 'zephyr'."
+  },
+  {
+    "Word":"zeppelin",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ツェッペリン飛行船",
+    "ExampleSentence":"The discussion focused on the term 'zeppelin'."
+  },
+  {
+    "Word":"zestful",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"熱意あふれる",
+    "ExampleSentence":"The report used a zestful expression."
+  },
+  {
+    "Word":"zesty",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"風味のある",
+    "ExampleSentence":"The report used a zesty expression."
+  },
+  {
+    "Word":"ziggurat",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ジグラット寺院",
+    "ExampleSentence":"The discussion focused on the term 'ziggurat'."
+  },
+  {
+    "Word":"zilch",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"無価値のもの",
+    "ExampleSentence":"The discussion focused on the term 'zilch'."
+  },
+  {
+    "Word":"zillion",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"莫大な数",
+    "ExampleSentence":"The discussion focused on the term 'zillion'."
+  },
+  {
+    "Word":"zillionth",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"無数の中の一番目",
+    "ExampleSentence":"The report used a zillionth expression."
+  },
+  {
+    "Word":"zinc",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"亜鉛",
+    "ExampleSentence":"The discussion focused on the term 'zinc'."
+  },
+  {
+    "Word":"zincify",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"亜鉛めっきする",
+    "ExampleSentence":"They decided to zincify ahead."
+  },
+  {
+    "Word":"zincky",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"亜鉛の",
+    "ExampleSentence":"The report used a zincky expression."
+  },
+  {
+    "Word":"zing",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"活気",
+    "ExampleSentence":"The discussion focused on the term 'zing'."
+  },
+  {
+    "Word":"zinger",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"機知に富む発言",
+    "ExampleSentence":"The discussion focused on the term 'zinger'."
+  },
+  {
+    "Word":"zingy",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"刺激的な",
+    "ExampleSentence":"The report used a zingy expression."
+  },
+  {
+    "Word":"zionism",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"シオニズム",
+    "ExampleSentence":"The discussion focused on the term 'zionism'."
+  },
+  {
+    "Word":"zip",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"素早く動く",
+    "ExampleSentence":"They decided to zip ahead."
+  },
+  {
+    "Word":"zipper",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ファスナー",
+    "ExampleSentence":"The discussion focused on the term 'zipper'."
+  },
+  {
+    "Word":"zircon",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ジルコン",
+    "ExampleSentence":"The discussion focused on the term 'zircon'."
+  },
+  {
+    "Word":"zirconium",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ジルコニウム",
+    "ExampleSentence":"The discussion focused on the term 'zirconium'."
+  },
+  {
+    "Word":"zit",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"にきび",
+    "ExampleSentence":"The discussion focused on the term 'zit'."
+  },
+  {
+    "Word":"zodiacal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"黄道の",
+    "ExampleSentence":"The report used a zodiacal expression."
+  },
+  {
+    "Word":"zoic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"動物の",
+    "ExampleSentence":"The report used a zoic expression."
+  },
+  {
+    "Word":"zombie",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ゾンビ",
+    "ExampleSentence":"The discussion focused on the term 'zombie'."
+  },
+  {
+    "Word":"zonal",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"帯状の",
+    "ExampleSentence":"The report used a zonal expression."
+  },
+  {
+    "Word":"zookeeper",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"動物園の飼育員",
+    "ExampleSentence":"The discussion focused on the term 'zookeeper'."
+  },
+  {
+    "Word":"zoologist",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"動物学者",
+    "ExampleSentence":"The discussion focused on the term 'zoologist'."
+  },
+  {
+    "Word":"zoom",
+    "PartOfSpeech":"v",
+    "JapaneseMeaning":"急上昇する",
+    "ExampleSentence":"They decided to zoom ahead."
+  },
+  {
+    "Word":"zoomorphic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"動物形の",
+    "ExampleSentence":"The report used a zoomorphic expression."
+  },
+  {
+    "Word":"zoonosis",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"人獣共通感染症",
+    "ExampleSentence":"The discussion focused on the term 'zoonosis'."
+  },
+  {
+    "Word":"zucchini",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"ズッキーニ",
+    "ExampleSentence":"The discussion focused on the term 'zucchini'."
+  },
+  {
+    "Word":"zygote",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"受精卵",
+    "ExampleSentence":"The discussion focused on the term 'zygote'."
+  },
+  {
+    "Word":"zymology",
+    "PartOfSpeech":"n",
+    "JapaneseMeaning":"発酵学",
+    "ExampleSentence":"The discussion focused on the term 'zymology'."
+  },
+  {
+    "Word":"zymotic",
+    "PartOfSpeech":"adj",
+    "JapaneseMeaning":"発酵性の",
+    "ExampleSentence":"The report used a zymotic expression."
+  }
+]
